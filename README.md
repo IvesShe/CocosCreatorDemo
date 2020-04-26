@@ -61,22 +61,22 @@
 
 1. [Socket聊天室(node.js + socket.io)](https://github.com/IvesShe/ChatRoomSocket)
 <center class="half">
-   <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887833641.jpg?raw=true" width="600"/>
+   <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887833641.jpg?raw=true" width="400"/>
 </center>
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887809221.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887809221.jpg?raw=true" width="400"/>
 </center>
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887797059.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887797059.jpg?raw=true" width="400"/>
 </center>
 
 2. [Socket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
 <center class="half">
-   <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886425736.jpg?raw=true" width="600"/>
+   <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886425736.jpg?raw=true" width="500"/>
 </center>
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886407368.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886407368.jpg?raw=true" width="500"/>
 </center>
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
