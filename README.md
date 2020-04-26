@@ -65,7 +65,7 @@
 </center>
 
 
-2. [Socket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
+2. [WebSocket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
