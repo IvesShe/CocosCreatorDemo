@@ -55,7 +55,7 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
 </center>
 
-12. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://ivesshe.github.io/Turntable/)
+12. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
 </center>
