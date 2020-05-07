@@ -57,7 +57,7 @@
 
 12. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
 </center>
 
 13. [趣味跳一跳](https://ivesshe.github.io/Turntable/)
