@@ -65,9 +65,9 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
 </center>
 
-14. [Spine、Photoshop+ShoeBox、BMFont DEMO](https://ivesshe.github.io/BMFont_Spine/)
+14. [Spine、Photoshop+ShoeBox & BMFont 自製字型庫 DEMO](https://github.com/IvesShe/BMFont_Spine)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/S__38658050.jpg?raw=true" width="200"/>
 </center>
 
 # **Node.js**
