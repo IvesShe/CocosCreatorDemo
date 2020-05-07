@@ -5,7 +5,7 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868822604.jpg?raw=true" width="200"/>
 </center>
    
-2. [飛機大戰](https://ivesshe.github.io/aircraftWeb/)
+2. [飛機大戰(開發中)](https://ivesshe.github.io/aircraftWeb/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868861212.jpg?raw=true" width="200"/>
 </center>
@@ -55,7 +55,20 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
 </center>
 
-12. 增加中...
+12. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://ivesshe.github.io/Turntable/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
+</center>
+
+13. [趣味跳一跳](https://ivesshe.github.io/Turntable/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
+</center>
+
+14. [Spine、Photoshop+ShoeBox、BMFont DEMO](https://ivesshe.github.io/BMFont_Spine/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
+</center>
 
 # **Node.js**
 
