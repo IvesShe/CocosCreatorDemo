@@ -62,7 +62,7 @@
 
 13. [趣味跳一跳](https://ivesshe.github.io/JumpJump/)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/JumpJump/S__38666242.jpg?raw=true" width="200"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/JumpJump/S__38666243.jpg?raw=true" width="200"/>
 </center>
 
 14. [Spine、Photoshop+ShoeBox & BMFont 自製字型庫 DEMO](https://github.com/IvesShe/BMFont_Spine)
