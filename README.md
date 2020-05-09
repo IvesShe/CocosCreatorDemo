@@ -70,6 +70,11 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/S__38658050.jpg?raw=true" width="200"/>
 </center>
 
+15. [Shader Loading DEMO](https://ivesshe.github.io/shader_Loading/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/shader_loading/S__38666256.jpg?raw=true" width="200"/>
+</center>
+
 ------
 # **Node.js**
 
