@@ -93,3 +93,17 @@
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
+
+------
+# **自主學習區**
+學習記錄區
+
+1. [Linux Study](https://github.com/IvesShe/ChatRoomWebSocketV2)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
+</center>
+
+2. [Docker Study](https://github.com/IvesShe/ChatRoomWebSocketV2)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
+</center>
