@@ -103,7 +103,7 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
 
-2. [Docker Study](https://github.com/IvesShe/ChatRoomWebSocketV2)
+2. [Docker Study](https://github.com/IvesShe/DockerStudy)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/DockerStudy/blob/master/images/2020-08-01192503.png?raw=true" width="500"/>
 </center>
