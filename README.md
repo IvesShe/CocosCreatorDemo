@@ -96,7 +96,7 @@
 
 ------
 # **自主學習區**
-學習記錄區
+學習之後，製作成筆記，方便日後使用時復習
 
 1. [Linux Study](https://github.com/IvesShe/ChatRoomWebSocketV2)
 <center class="half">
@@ -107,3 +107,11 @@
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
+
+更新中…
+3. Redis Study
+4. MySQL Study
+5. Golang Study
+6. JEST Study
+7. Clean Code Read
+8. Vue Study
