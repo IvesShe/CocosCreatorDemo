@@ -98,9 +98,9 @@
 # **(三) 自主學習區**
 學習之後，製作成筆記，方便日後使用時復習
 
-1. [Linux Study](https://github.com/IvesShe/ChatRoomWebSocketV2)
+1. [Linux Study](https://github.com/IvesShe/LinuxStudy)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/LinuxStudy/blob/master/images/2020-08-01114909.png?raw=true?raw=true" width="500"/>
 </center>
 
 2. [Docker Study](https://github.com/IvesShe/DockerStudy)
