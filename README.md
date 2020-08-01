@@ -98,24 +98,26 @@
 # **(三) 自主學習區**
 學習之後，製作成筆記，方便日後使用時復習
 
-1. [Linux Study](https://github.com/IvesShe/LinuxStudy)
+1、[Linux Study](https://github.com/IvesShe/LinuxStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/LinuxStudy/blob/master/images/2020-08-01114909.png?raw=true?raw=true" width="500"/>
 </center>
 
-2. [Docker Study](https://github.com/IvesShe/DockerStudy)
+
+2、[Docker Study](https://github.com/IvesShe/DockerStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/DockerStudy/blob/master/images/2020-08-01192503.png?raw=true" width="500"/>
 </center>
 
 更新中…
-3. Redis Study
-4. MySQL Study
-5. Golang Study
-6. JEST Study
-7. Clean Code Read
-8. Vue Study
-9. RESTful Study
-10. protobuf Study
-11. Docker+Jenkins+Git Study
-12. Node.js+Expresss+MongoDB
+
+3、Redis Study
+4、MySQL Study
+5、Golang Study
+6、JEST Study
+7、Clean Code Read
+8、Vue Study
+9、RESTful Study
+10、protobuf Study
+11、Docker+Jenkins+Git Study
+12、Node.js+Expresss+MongoDB
