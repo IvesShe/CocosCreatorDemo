@@ -109,24 +109,27 @@
     <img src="https://github.com/IvesShe/DockerStudy/blob/master/images/2020-08-01192503.png?raw=true" width="500"/>
 </center>
 
+3、[Golang Beego Study](https://github.com/IvesShe/Golang_Beego_Demo)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/0_XoSKJTcPn78ADdUu.png?raw=true" width="500"/>
+</center>
+
 更新中…
 
 3、Redis Study
 
 4、MySQL Study
 
-5、Golang Study
+5、JEST Study
 
-6、JEST Study
+6、Clean Code Read
 
-7、Clean Code Read
+7、Vue Study
 
-8、Vue Study
+8、RESTful Study
 
-9、RESTful Study
+9、protobuf Study
 
-10、protobuf Study
+10、Docker+Jenkins+Git Study
 
-11、Docker+Jenkins+Git Study
-
-12、Node.js+Expresss+MongoDB
+11、Node.js+Expresss+MongoDB
