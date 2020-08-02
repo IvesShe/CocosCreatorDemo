@@ -111,7 +111,7 @@
 
 3、[Golang Beego Study](https://github.com/IvesShe/Golang_Beego_Demo)
 <center class="half">
-    <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/0_XoSKJTcPn78ADdUu.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/20200802134629.png?raw=true" width="500"/>
 </center>
 
 更新中…
