@@ -121,7 +121,7 @@
     <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
 </center>
 
-5、[MySQL Study](https://github.com/IvesShe/MySQL_Study)
+5、[MySQL Study(搭配Docker)](https://github.com/IvesShe/MySQL_Study)
 <center class="half">
     <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
 </center>
