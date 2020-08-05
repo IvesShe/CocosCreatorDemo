@@ -114,22 +114,29 @@
     <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/20200802134629.png?raw=true" width="500"/>
 </center>
 
+4、[Redis Study](https://github.com/IvesShe/RedisStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
+</center>
+
+5、[MySQL Study](https://github.com/IvesShe/MySQL_Study)
+<center class="half">
+    <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
+</center>
+
 更新中…
 
-3、Redis Study
 
-4、MySQL Study
+- JEST Study
 
-5、JEST Study
+- Clean Code Read
 
-6、Clean Code Read
+- Vue Study
 
-7、Vue Study
+- RESTful Study
 
-8、RESTful Study
+- protobuf Study
 
-9、protobuf Study
+- Docker+Jenkins+Git Study
 
-10、Docker+Jenkins+Git Study
-
-11、Node.js+Expresss+MongoDB
+- Node.js+Expresss+MongoDB
