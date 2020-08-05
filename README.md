@@ -97,6 +97,7 @@
 ------
 # **(三) 自主學習區**
 學習之後，製作成筆記，方便日後使用時復習
+學習內容及深度會視時間安排，陸續進行更新
 
 1、[Linux Study](https://github.com/IvesShe/LinuxStudy)
 <center class="half">
