@@ -126,7 +126,7 @@
     <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
 </center>
 
-6、[Nginx Study)](https://github.com/IvesShe/NginxStudy/tree/alpha)
+6、[Nginx Study](https://github.com/IvesShe/NginxStudy/tree/alpha)
 <center class="half">
     <img src="https://github.com/IvesShe/NginxStudy/raw/alpha/images/20200810202805.png?raw=true" width="500"/>
 </center>
