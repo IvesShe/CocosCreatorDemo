@@ -95,6 +95,14 @@
 </center>
 
 ------
+# **(三) Golang**
+
+1. [Golang Beego Study](https://github.com/IvesShe/Golang_Beego_Demo)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/20200802134629.png?raw=true" width="500"/>
+</center>
+
+------
 # **(三) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
@@ -105,23 +113,17 @@
     <img src="https://github.com/IvesShe/LinuxStudy/blob/master/images/2020-08-01114909.png?raw=true?raw=true" width="500"/>
 </center>
 
-
 2、[Docker Study](https://github.com/IvesShe/DockerStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/DockerStudy/blob/master/images/2020-08-01192503.png?raw=true" width="500"/>
 </center>
 
-3、[Golang Beego Study](https://github.com/IvesShe/Golang_Beego_Demo)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/20200802134629.png?raw=true" width="500"/>
-</center>
-
-4、[Redis Study](https://github.com/IvesShe/RedisStudy)
+3、[Redis Study](https://github.com/IvesShe/RedisStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
 </center>
 
-5、[MySQL Study(搭配Docker)](https://github.com/IvesShe/MySQL_Study)
+4、[MySQL Study(搭配Docker)](https://github.com/IvesShe/MySQL_Study)
 <center class="half">
     <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
 </center>
