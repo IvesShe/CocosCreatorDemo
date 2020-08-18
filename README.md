@@ -97,9 +97,14 @@
 ------
 # **(三) Golang**
 
-1. [Golang Beego Study](https://github.com/IvesShe/Golang_Beego_Demo)
+1. [Golang Beego](https://github.com/IvesShe/Golang_Beego_Demo)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/20200802134629.png?raw=true" width="500"/>
+</center>
+
+1. [Golang Gin](https://github.com/IvesShe/Golang_Gin)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Gin/raw/master/images/20200818175658.png?raw=true" width="500"/>
 </center>
 
 ------
