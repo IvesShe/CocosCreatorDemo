@@ -1,4 +1,63 @@
-# **(一) CocosCreatorDemo**
+# **(一) Golang**
+
+1. [Golang Beego](https://github.com/IvesShe/Golang_Beego_Demo)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/20200802134629.png?raw=true" width="500"/>
+</center>
+
+2. [Golang Gin](https://github.com/IvesShe/Golang_Gin)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Gin/raw/master/images/20200818175658.png?raw=true" width="500"/>
+</center>
+
+# **(二) Node.js**
+
+1. [Socket聊天室(node.js + socket.io)](https://github.com/IvesShe/ChatRoomSocket)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887809221.jpg?raw=true" width="500"/>
+</center>
+
+
+2. [WebSocket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
+</center>
+
+------
+
+# **(三) 自主學習區**
+- 學習之後，製作成筆記，方便日後使用時復習
+- 練習及筆記的內容及深度會視時間安排，陸續進行更新
+- 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
+
+1、[Linux Study](https://github.com/IvesShe/LinuxStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/LinuxStudy/blob/master/images/2020-08-01114909.png?raw=true?raw=true" width="500"/>
+</center>
+
+2、[Docker Study](https://github.com/IvesShe/DockerStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/DockerStudy/blob/master/images/2020-08-01192503.png?raw=true" width="500"/>
+</center>
+
+3、[Redis Study](https://github.com/IvesShe/RedisStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
+</center>
+
+4、[MySQL Study(搭配Docker)](https://github.com/IvesShe/MySQL_Study)
+<center class="half">
+    <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
+</center>
+
+6、[Nginx Study](https://github.com/IvesShe/NginxStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/NginxStudy/raw/alpha/images/20200810202805.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(四) CocosCreatorDemo**
 
 1. [趣味套牛](https://ivesshe.github.io/getCow/) 
 <center class="half">
@@ -81,62 +140,10 @@
 </center>
 
 ------
-# **(二) Node.js**
-
-1. [Socket聊天室(node.js + socket.io)](https://github.com/IvesShe/ChatRoomSocket)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887809221.jpg?raw=true" width="500"/>
-</center>
 
 
-2. [WebSocket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
-</center>
 
-------
-# **(三) Golang**
 
-1. [Golang Beego](https://github.com/IvesShe/Golang_Beego_Demo)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_Beego_Demo/raw/master/images/20200802134629.png?raw=true" width="500"/>
-</center>
-
-1. [Golang Gin](https://github.com/IvesShe/Golang_Gin)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_Gin/raw/master/images/20200818175658.png?raw=true" width="500"/>
-</center>
-
-------
-# **(三) 自主學習區**
-- 學習之後，製作成筆記，方便日後使用時復習
-- 練習及筆記的內容及深度會視時間安排，陸續進行更新
-- 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
-
-1、[Linux Study](https://github.com/IvesShe/LinuxStudy)
-<center class="half">
-    <img src="https://github.com/IvesShe/LinuxStudy/blob/master/images/2020-08-01114909.png?raw=true?raw=true" width="500"/>
-</center>
-
-2、[Docker Study](https://github.com/IvesShe/DockerStudy)
-<center class="half">
-    <img src="https://github.com/IvesShe/DockerStudy/blob/master/images/2020-08-01192503.png?raw=true" width="500"/>
-</center>
-
-3、[Redis Study](https://github.com/IvesShe/RedisStudy)
-<center class="half">
-    <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
-</center>
-
-4、[MySQL Study(搭配Docker)](https://github.com/IvesShe/MySQL_Study)
-<center class="half">
-    <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
-</center>
-
-6、[Nginx Study](https://github.com/IvesShe/NginxStudy)
-<center class="half">
-    <img src="https://github.com/IvesShe/NginxStudy/raw/alpha/images/20200810202805.png?raw=true" width="500"/>
-</center>
 
 更新中…
 
