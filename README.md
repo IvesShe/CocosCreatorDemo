@@ -20,7 +20,7 @@
     <img src="https://github.com/IvesShe/Golang_TCP_Socket/raw/master/images/20200820161922.png?raw=true" width="500"/>
 </center>
 
-5. [Golang TCP Socket](https://github.com/IvesShe/Golang_Redis)
+5. [Golang Redis](https://github.com/IvesShe/Golang_Redis)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_Redis/blob/master/images/20200820113610.png?raw=true" width="500"/>
 </center>
