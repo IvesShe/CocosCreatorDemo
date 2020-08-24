@@ -75,6 +75,11 @@
     <img src="https://github.com/IvesShe/NginxStudy/raw/alpha/images/20200810202805.png?raw=true" width="500"/>
 </center>
 
+6. [Selenium Study](https://github.com/IvesShe/SeleniumStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/SeleniumStudy/blob/master/images/20200823210650.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(四) CocosCreatorDemo**
