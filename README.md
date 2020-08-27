@@ -48,6 +48,11 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
 
+4. [Jest Study](https://github.com/IvesShe/JestStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/JestStudy/blob/master/images/20200826203503.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(三) 自主學習區**
