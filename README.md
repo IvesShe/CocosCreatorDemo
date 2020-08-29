@@ -94,6 +94,11 @@
     <img src="https://github.com/IvesShe/SeleniumStudy/blob/master/images/20200823210650.png?raw=true" width="500"/>
 </center>
 
+7. [使用Docker搭建Gitlab](https://github.com/IvesShe/DockerGitlab)
+<center class="half">
+    <img src="https://github.com/IvesShe/DockerGitlab/blob/master/images/20200829211343.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(四) CocosCreatorDemo**
