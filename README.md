@@ -99,6 +99,11 @@
     <img src="https://github.com/IvesShe/DockerGitlab/blob/master/images/20200829211343.png?raw=true" width="500"/>
 </center>
 
+7. [使用Docker搭建Jenkins](https://github.com/IvesShe/DockerJenkins)
+<center class="half">
+    <img src="https://github.com/IvesShe/DockerJenkins/blob/master/images/20200830123242.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(四) CocosCreatorDemo**
