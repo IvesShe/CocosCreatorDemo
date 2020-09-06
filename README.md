@@ -116,6 +116,11 @@
     <img src="https://github.com/IvesShe/DockerJenkins/blob/master/images/20200830123242.png?raw=true" width="500"/>
 </center>
 
+9. [Lua Study](https://github.com/IvesShe/LuaStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/LuaStudy/raw/master/images/20200904161421.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(四) CocosCreatorDemo**
