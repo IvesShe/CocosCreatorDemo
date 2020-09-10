@@ -71,7 +71,16 @@
 
 ------
 
-# **(三) 自主學習區**
+# **(三) Vue.js**
+
+1. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Notepad/raw/master/images/20200907132935.png?raw=true?raw=true" width="500"/>
+</center>
+
+------
+
+# **(四) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -123,7 +132,7 @@
 
 ------
 
-# **(四) CocosCreatorDemo**
+# **(五) CocosCreatorDemo**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
@@ -213,17 +222,6 @@
 
 更新中…
 
-
-- JEST Study
-
 - Clean Code Read
-
-- Vue Study
-
 - RESTful Study
-
-- protobuf Study
-
-- Docker+Jenkins+Git Study
-
 - Node.js+Expresss+MongoDB
