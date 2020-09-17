@@ -90,7 +90,13 @@
 
 ------
 
-# **(四) 自主學習區**
+# **(四) 棋牌遊戲規則筆記**
+
+1. [Poker Note](https://github.com/IvesShe/Poker_Note)
+
+------
+
+# **(五) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -142,7 +148,7 @@
 
 ------
 
-# **(五) CocosCreatorDemo**
+# **(六) CocosCreatorDemo**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
