@@ -93,6 +93,9 @@
 # **(四) 棋牌遊戲規則筆記**
 
 1. [Poker Note](https://github.com/IvesShe/Poker_Note)
+<center class="half">
+    <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
+</center>
 
 ------
 
