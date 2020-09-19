@@ -151,6 +151,11 @@
     <img src="https://github.com/IvesShe/LuaStudy/raw/master/images/20200904161421.png?raw=true" width="500"/>
 </center>
 
+10. [Shell Script Study](https://github.com/IvesShe/ShellScriptStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/ShellScriptStudy/blob/master/images/20200908140304.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(六) CocosCreatorDemo**
