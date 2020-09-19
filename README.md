@@ -92,6 +92,8 @@
 
 # **(四) 棋牌遊戲規則筆記**
 
+棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
+
 1. [Poker Note](https://github.com/IvesShe/Poker_Note)
 <center class="half">
     <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
