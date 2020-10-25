@@ -160,7 +160,10 @@
     <img src="https://github.com/IvesShe/ShellScriptStudy/blob/master/images/20200908140304.png?raw=true" width="500"/>
 </center>
 
-10. [MongoDB Study]
+10. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
+<center class="half">
+    <img src="https://github.com/IvesShe/MongoDB_Study/raw/main/images/20201024162849.png?raw=true" width="500"/>
+</center>
 
 ------
 
