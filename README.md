@@ -17,39 +17,44 @@
     <img src="https://github.com/IvesShe/Golang_Gin/raw/master/images/20200818175658.png?raw=true" width="500"/>
 </center>
 
-4. [Golang MySQL](https://github.com/IvesShe/Golang_MySQL)
+4. [Golang Websocket搭配Protobuf(開發中)](https://github.com/IvesShe/Golang_Websocket_Protobuf)
 <center class="half">
-    <img src="https://github.com/IvesShe/Golang_MySQL/raw/master/images/20200819145521.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/Golang_Websocket_Protobuf/blob/main/images/20201129172049.png?raw=true" width="500"/>
 </center>
 
-5. [Golang TCP Socket](https://github.com/IvesShe/Golang_TCP_Socket)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_TCP_Socket/raw/master/images/20200820161922.png?raw=true" width="500"/>
-</center>
-
-6. [Golang Redis](https://github.com/IvesShe/Golang_Redis)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_Redis/blob/master/images/20200820113610.png?raw=true" width="500"/>
-</center>
-
-7. [Golang Goroutine](https://github.com/IvesShe/Golang_Goroutine)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_Goroutine/blob/master/images/20200822205841.png?raw=true" width="500"/>
-</center>
-
-8. [Golang Unittesting](https://github.com/IvesShe/Golang_Unittesting)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_Unittesting/blob/master/images/20200831132119.png?raw=true" width="500"/>
-</center>
-
-9. [Golang Protobuf](https://github.com/IvesShe/Golang_Protobuf)
+5. [Golang Protobuf](https://github.com/IvesShe/Golang_Protobuf)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_Protobuf/raw/master/images/20200831162358.png?raw=true" width="500"/>
 </center>
 
-10. [Golang Websocket](https://github.com/IvesShe/Golang_Websocket)
+6. [Golang Websocket](https://github.com/IvesShe/Golang_Websocket)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_Websocket/raw/main/images/20201127171336.png?raw=true" width="500"/>
+</center>
+
+7. [Golang MySQL](https://github.com/IvesShe/Golang_MySQL)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_MySQL/raw/master/images/20200819145521.png?raw=true" width="500"/>
+</center>
+
+8. [Golang TCP Socket](https://github.com/IvesShe/Golang_TCP_Socket)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_TCP_Socket/raw/master/images/20200820161922.png?raw=true" width="500"/>
+</center>
+
+9. [Golang Redis](https://github.com/IvesShe/Golang_Redis)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Redis/blob/master/images/20200820113610.png?raw=true" width="500"/>
+</center>
+
+10. [Golang Goroutine](https://github.com/IvesShe/Golang_Goroutine)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Goroutine/blob/master/images/20200822205841.png?raw=true" width="500"/>
+</center>
+
+11. [Golang Unittesting](https://github.com/IvesShe/Golang_Unittesting)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Unittesting/blob/master/images/20200831132119.png?raw=true" width="500"/>
 </center>
 
 # **(二) Node.js**
@@ -120,7 +125,26 @@
 
 ------
 
-# **(六) 自主學習區**
+# **(六) Database 數據庫**
+
+1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
+<center class="half">
+    <img src="https://github.com/IvesShe/MongoDB_Study/raw/main/images/20201024162849.png?raw=true" width="500"/>
+</center>
+
+2. [MySQL Study(搭配Docker)](https://github.com/IvesShe/MySQL_Study)
+<center class="half">
+    <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
+</center>
+
+3. [Redis Study](https://github.com/IvesShe/RedisStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(七) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -135,44 +159,29 @@
     <img src="https://github.com/IvesShe/DockerStudy/blob/master/images/2020-08-01192503.png?raw=true" width="500"/>
 </center>
 
-3. [Redis Study](https://github.com/IvesShe/RedisStudy)
-<center class="half">
-    <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
-</center>
-
-4. [MySQL Study(搭配Docker)](https://github.com/IvesShe/MySQL_Study)
-<center class="half">
-    <img src="https://github.com/IvesShe/MySQL_Study/raw/master/images/20200805211137.png?raw=true" width="500"/>
-</center>
-
-5. [Nginx Study](https://github.com/IvesShe/NginxStudy)
+3. [Nginx Study](https://github.com/IvesShe/NginxStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/NginxStudy/raw/alpha/images/20200810202805.png?raw=true" width="500"/>
 </center>
 
-6. [Selenium Study](https://github.com/IvesShe/SeleniumStudy)
+4. [Selenium Study](https://github.com/IvesShe/SeleniumStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/SeleniumStudy/blob/master/images/20200823210650.png?raw=true" width="500"/>
 </center>
 
-7. [使用Docker搭建Gitlab](https://github.com/IvesShe/DockerGitlab)
+5. [使用Docker搭建Gitlab](https://github.com/IvesShe/DockerGitlab)
 <center class="half">
     <img src="https://github.com/IvesShe/DockerGitlab/blob/master/images/20200829211343.png?raw=true" width="500"/>
 </center>
 
-8. [使用Docker搭建Jenkins](https://github.com/IvesShe/DockerJenkins)
+6. [使用Docker搭建Jenkins](https://github.com/IvesShe/DockerJenkins)
 <center class="half">
     <img src="https://github.com/IvesShe/DockerJenkins/blob/master/images/20200830123242.png?raw=true" width="500"/>
 </center>
 
-9. [Shell Script Study](https://github.com/IvesShe/ShellScriptStudy)
+7. [Shell Script Study](https://github.com/IvesShe/ShellScriptStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/ShellScriptStudy/blob/master/images/20200908140304.png?raw=true" width="500"/>
-</center>
-
-10. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
-<center class="half">
-    <img src="https://github.com/IvesShe/MongoDB_Study/raw/main/images/20201024162849.png?raw=true" width="500"/>
 </center>
 
 ------
