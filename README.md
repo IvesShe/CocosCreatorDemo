@@ -201,7 +201,7 @@
 
 ------
 
-# **(七) CocosCreatorDemo**
+# **(八) CocosCreatorDemo**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
