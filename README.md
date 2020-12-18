@@ -107,7 +107,7 @@
 
 1. [PHP Laravel Study](https://github.com/IvesShe/PHP_Laravel_Study)
 <center class="half">
-    <img src="https://github.com/IvesShe/PHP_Laravel_Study/raw/main/images/20201217174600.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/PHP_Laravel_Study/raw/main/images/20201218144205.png?raw=true" width="500"/>
 </center>
 
 ------
