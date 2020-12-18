@@ -72,6 +72,8 @@
     <img src="https://github.com/IvesShe/Golang_HashTable_Employe/raw/main/images/20201213201417.png?raw=true" width="500"/>
 </center>
 
+15. [Golang Stack 簡易棧計算機]
+
 # **(二) Node.js**
 
 1. [Node.js Express](https://github.com/IvesShe/Nodejs_Express)
@@ -101,7 +103,22 @@
 
 ------
 
-# **(三) Vue.js**
+# **(三) PHP**
+
+1. [PHP Laravel Study](https://github.com/IvesShe/PHP_Laravel_Study)
+<center class="half">
+    <img src="https://github.com/IvesShe/PHP_Laravel_Study/raw/main/images/20201217174600.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(四) React.js**
+
+1. [React Study]
+
+------
+
+# **(五) Vue.js**
 
 1. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
 <center class="half">
@@ -120,7 +137,7 @@
 
 ------
 
-# **(四) Lua**
+# **(六) Lua**
 
 1. [Lua Study](https://github.com/IvesShe/LuaStudy)
 <center class="half">
@@ -129,7 +146,7 @@
 
 ------
 
-# **(五) 棋牌遊戲規則筆記**
+# **(七) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -140,7 +157,7 @@
 
 ------
 
-# **(六) Database 數據庫**
+# **(八) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -159,7 +176,7 @@
 
 ------
 
-# **(七) 自主學習區**
+# **(九) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -201,7 +218,7 @@
 
 ------
 
-# **(八) CocosCreatorDemo**
+# **(十) CocosCreatorDemo**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
