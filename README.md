@@ -16,7 +16,7 @@
 ```
 # **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
 
-1. [Golang 搭配Cocos Creator2.4.3 製作簡易Slotgame](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
+1. [Golang 搭配Cocos Creator2.4.3 製作簡易SlotGame(拉霸機)](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_CocosCreator_3Slot/blob/main/images/20201219103943.png?raw=true" width="500"/>
 </center>
