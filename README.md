@@ -1,6 +1,27 @@
 **點擊標題就可以進入該項目連結**
 
-# **(一) Golang**
+項目大綱
+```
+(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3
+(二) Golang
+(三) Node.js
+(四) PHP
+(五) React.js
+(六) Vue.js
+(七) Lua
+(八) 棋牌遊戲規則筆記
+(九) Database 數據庫
+(十) 自主學習區
+(十一) CocosCreator
+```
+# **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
+
+1. [Golang 搭配Cocos Creator2.4.3 製作簡易Slotgame](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_CocosCreator_3Slot/blob/main/images/20201219103943.png?raw=true" width="500"/>
+</center>
+
+# **(二) Golang**
 
 1. [Golang LeafServer Study](https://github.com/IvesShe/Golang_LeafServer_Study)
 <center class="half">
@@ -74,7 +95,7 @@
 
 15. [Golang Stack 簡易棧計算機]
 
-# **(二) Node.js**
+# **(三) Node.js**
 
 1. [Node.js Express](https://github.com/IvesShe/Nodejs_Express)
 <center class="half">
@@ -103,7 +124,7 @@
 
 ------
 
-# **(三) PHP**
+# **(四) PHP**
 
 1. [PHP Laravel Study 搭配MYSQL](https://github.com/IvesShe/PHP_Laravel_Study)
 <center class="half">
@@ -112,13 +133,13 @@
 
 ------
 
-# **(四) React.js**
+# **(五) React.js**
 
 1. [React Study]
 
 ------
 
-# **(五) Vue.js**
+# **(六) Vue.js**
 
 1. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
 <center class="half">
@@ -137,7 +158,7 @@
 
 ------
 
-# **(六) Lua**
+# **(七) Lua**
 
 1. [Lua Study](https://github.com/IvesShe/LuaStudy)
 <center class="half">
@@ -146,7 +167,7 @@
 
 ------
 
-# **(七) 棋牌遊戲規則筆記**
+# **(八) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -157,7 +178,7 @@
 
 ------
 
-# **(八) Database 數據庫**
+# **(九) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -176,7 +197,7 @@
 
 ------
 
-# **(九) 自主學習區**
+# **(十) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -218,7 +239,7 @@
 
 ------
 
-# **(十) CocosCreatorDemo**
+# **(十一) CocosCreator**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
