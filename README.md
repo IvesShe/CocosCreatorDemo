@@ -131,6 +131,11 @@
     <img src="https://github.com/IvesShe/PHP_Laravel_Study/raw/main/images/20201218144205.png?raw=true" width="500"/>
 </center>
 
+2. [PHP Linux Study](https://github.com/IvesShe/PHP_Linux_Study)
+<center class="half">
+    <img src="https://github.com/IvesShe/PHP_Linux_Study/raw/main/images/20201222121623.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(五) React.js**
@@ -238,6 +243,11 @@
 7. [Shell Script Study](https://github.com/IvesShe/ShellScriptStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/ShellScriptStudy/blob/master/images/20200908140304.png?raw=true" width="500"/>
+</center>
+
+8. [Git Note](https://github.com/IvesShe/Git_Note)
+<center class="half">
+    <img src="https://git-scm.com/images/logo@2x.png?raw=true" width="500"/>
 </center>
 
 ------
