@@ -131,7 +131,12 @@
     <img src="https://github.com/IvesShe/PHP_Laravel_Study/raw/main/images/20201218144205.png?raw=true" width="500"/>
 </center>
 
-2. [PHP Linux Study](https://github.com/IvesShe/PHP_Linux_Study)
+2. [PHP環境架設(搭配FPM、Nginx、MySQL、Redis)](https://github.com/IvesShe/PHP_FPM_Nginx_MySQL_Redis)
+<center class="half">
+    <img src="https://github.com/IvesShe/PHP_FPM_Nginx_MySQL_Redis/raw/main/images/20201228233620.png?raw=true" width="500"/>
+</center>
+
+3. [PHP Linux Study](https://github.com/IvesShe/PHP_Linux_Study)
 <center class="half">
     <img src="https://github.com/IvesShe/PHP_Linux_Study/raw/main/images/20201222121623.png?raw=true" width="500"/>
 </center>
