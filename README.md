@@ -11,7 +11,7 @@
 (七) Lua
 (八) 棋牌遊戲規則筆記
 (九) Database 數據庫
-(十) 自主學習區
+(十) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
 (十一) CocosCreator
 ```
 # **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
