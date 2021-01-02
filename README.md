@@ -136,7 +136,7 @@
     <img src="https://github.com/IvesShe/PHP_FPM_Nginx_MySQL_Redis/raw/main/images/20201228233620.png?raw=true" width="500"/>
 </center>
 
-3. [PHP Linux Study](https://github.com/IvesShe/PHP_Linux_Study)
+3. [PHP Composer Linux](https://github.com/IvesShe/PHP_Linux_Study)
 <center class="half">
     <img src="https://github.com/IvesShe/PHP_Linux_Study/raw/main/images/20201222121623.png?raw=true" width="500"/>
 </center>
@@ -176,6 +176,11 @@
 1. [Lua Study](https://github.com/IvesShe/LuaStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/LuaStudy/raw/master/images/20200904161421.png?raw=true" width="500"/>
+</center>
+
+1. [Nginx 加載Lua的](https://github.com/IvesShe/Nginx_Lua)
+<center class="half">
+    <img src="https://github.com/IvesShe/Nginx_Lua/raw/main/images/20201231221628.png?raw=true" width="500"/>
 </center>
 
 ------
