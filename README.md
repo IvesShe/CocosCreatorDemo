@@ -141,6 +141,11 @@
     <img src="https://github.com/IvesShe/PHP_Linux_Study/raw/main/images/20201222121623.png?raw=true" width="500"/>
 </center>
 
+4. [PHP swoole、apcu、mcrypt 環境搭建](https://github.com/IvesShe/PHP_swoole_apcu_mcrypt)
+<center class="half">
+    <img src="https://github.com/IvesShe/PHP_swoole_apcu_mcrypt/raw/main/images/20210107114915.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(五) React.js**
