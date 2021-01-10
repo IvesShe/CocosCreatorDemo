@@ -161,12 +161,17 @@
     <img src="https://github.com/IvesShe/PHP_Linux_Study/raw/main/images/20201222121623.png?raw=true" width="500"/>
 </center>
 
-4. [PHP swoole、apcu、mcrypt 環境搭建](https://github.com/IvesShe/PHP_swoole_apcu_mcrypt)
+4. [Nginx 加載Lua的環境](https://github.com/IvesShe/Nginx_Lua)
+<center class="half">
+    <img src="https://github.com/IvesShe/Nginx_Lua/raw/main/images/20201231221628.png?raw=true" width="500"/>
+</center>
+
+5. [PHP swoole、apcu、mcrypt 環境搭建](https://github.com/IvesShe/PHP_swoole_apcu_mcrypt)
 <center class="half">
     <img src="https://github.com/IvesShe/PHP_swoole_apcu_mcrypt/raw/main/images/20210107114915.png?raw=true" width="500"/>
 </center>
 
-5. [PHP Xdebug](https://github.com/IvesShe/PHP_Xdebug)
+6. [PHP Xdebug](https://github.com/IvesShe/PHP_Xdebug)
 <center class="half">
     <img src="https://github.com/IvesShe/PHP_Xdebug/blob/main/images/20210110142156.png?raw=true" width="500"/>
 </center>
@@ -206,11 +211,6 @@
 1. [Lua Study](https://github.com/IvesShe/LuaStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/LuaStudy/raw/master/images/20200904161421.png?raw=true" width="500"/>
-</center>
-
-2. [Nginx 加載Lua的環境](https://github.com/IvesShe/Nginx_Lua)
-<center class="half">
-    <img src="https://github.com/IvesShe/Nginx_Lua/raw/main/images/20201231221628.png?raw=true" width="500"/>
 </center>
 
 ------
