@@ -290,6 +290,11 @@
     <img src="https://git-scm.com/images/logo@2x.png?raw=true" width="500"/>
 </center>
 
+9. [VSCode Remote SSH 遠端連線調試](https://github.com/IvesShe/VSCode_Remote_ssh)
+<center class="half">
+    <img src="https://github.com/IvesShe/VSCode_Remote_ssh/raw/main/images/20210117153120.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(十一) CocosCreator**
