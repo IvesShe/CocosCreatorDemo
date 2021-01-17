@@ -243,6 +243,8 @@
     <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
 </center>
 
+4. [Redis集群部署]
+
 ------
 
 # **(十) 自主學習區**
