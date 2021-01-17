@@ -243,7 +243,10 @@
     <img src="https://github.com/IvesShe/RedisStudy/raw/master/images/20200804214210.png?raw=true" width="500"/>
 </center>
 
-4. [Redis集群部署]
+4. [Redis Cluster 集群部署](https://github.com/IvesShe/RedisCluster)
+<center class="half">
+    <img src="https://github.com/IvesShe/RedisCluster/raw/main/images/20210117203544.png?raw=true" width="500"/>
+</center>
 
 ------
 
