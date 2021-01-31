@@ -93,7 +93,10 @@
     <img src="https://github.com/IvesShe/Golang_HashTable_Employe/raw/main/images/20201213201417.png?raw=true" width="500"/>
 </center>
 
-15. [Golang Stack 簡易棧計算機]
+15. [Golang Stack 數組模擬實作](https://github.com/IvesShe/Golang_Stack)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_Stack/raw/main/images/20210131161149.png?raw=true" width="500"/>
+</center>
 
 16. [Golang RPC](https://github.com/IvesShe/Golang_RPC)
 <center class="half">
