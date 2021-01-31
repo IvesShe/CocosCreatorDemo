@@ -248,6 +248,13 @@
     <img src="https://github.com/IvesShe/RedisCluster/raw/main/images/20210117203544.png?raw=true" width="500"/>
 </center>
 
+
+5. [MySQL 實現主從複制](https://github.com/IvesShe/MySQL_Master_Slave)
+<center class="half">
+    <img src="https://github.com/IvesShe/MySQL_Master_Slave/raw/main/images/20210131124316.png?raw=true" width="500"/>
+</center>
+
+
 ------
 
 # **(十) 自主學習區**
