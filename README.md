@@ -200,13 +200,14 @@
 
 1. [React TodoList](https://github.com/IvesShe/React_TodoList)
 <center class="half">
-    <img src="https://github.com/IvesShe/React_Study/blob/main/images/20201219192949.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210226234206.png?raw=true" width="500"/>
 </center>
 
 2. [React Study](https://github.com/IvesShe/React_Study)
 <center class="half">
-    <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210226234206.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_Study/blob/main/images/20201219192949.png?raw=true" width="500"/>
 </center>
+
 
 
 
