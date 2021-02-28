@@ -208,7 +208,7 @@
     <img src="https://github.com/IvesShe/React_Github_Search/raw/main/images/20210228125311.png?raw=true" width="500"/>
 </center>
 
-3. [React Github Search PubSub 使用消息訂閱發佈的機制](https://github.com/IvesShe/React_Github_Search_PubSub/)
+3. [React Github Search PubSub 使用消息訂閱、補充Fetch、async、await](https://github.com/IvesShe/React_Github_Search_PubSub/)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Github_Search_PubSub/raw/main/images/20210228150125.png?raw=true" width="500"/>
 </center>
