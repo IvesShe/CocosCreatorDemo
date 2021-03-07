@@ -203,7 +203,7 @@
     <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210227110434.png?raw=true" width="500"/>
 </center>
 
-2. [React Github Search](https://ivesshe.github.io/React_Github_Search/)
+2. [React Github Search](https://github.com/IvesShe/React_Github_Search/)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Github_Search/raw/main/images/20210228125311.png?raw=true" width="500"/>
 </center>
