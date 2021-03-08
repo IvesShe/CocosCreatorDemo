@@ -198,9 +198,9 @@
 
 # **(五) React.js**
 
-1. [React TodoList](https://github.com/IvesShe/React_TodoList)
+1. [React Redux](https://github.com/IvesShe/React_Redux)
 <center class="half">
-    <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210227110434.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_Redux/raw/main/images/20210308234012.png?raw=true" width="500"/>
 </center>
 
 2. [React Router 和 SPA](https://ivesshe.github.io/React_Router/)
@@ -218,23 +218,25 @@
     <img src="https://github.com/IvesShe/React_Github_Search/raw/main/images/20210228125311.png?raw=true" width="500"/>
 </center>
 
-5. [React Github Search PubSub 使用消息訂閱、補充Fetch、async、await](https://github.com/IvesShe/React_Github_Search_PubSub/)
+5. [React TodoList](https://github.com/IvesShe/React_TodoList)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210227110434.png?raw=true" width="500"/>
+</center>
+
+6. [React Github Search PubSub 使用消息訂閱、補充Fetch、async、await](https://github.com/IvesShe/React_Github_Search_PubSub/)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Github_Search_PubSub/raw/main/images/20210228150125.png?raw=true" width="500"/>
 </center>
 
-6. [React Proxy 配置代理 搭配Node.js服務器](https://github.com/IvesShe/React_Proxy)
+7. [React Proxy 配置代理 搭配Node.js服務器](https://github.com/IvesShe/React_Proxy)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Proxy/raw/main/images/20210227151945.png?raw=true" width="500"/>
 </center>
 
-7. [React Study](https://github.com/IvesShe/React_Study)
+8. [React Study](https://github.com/IvesShe/React_Study)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Study/blob/main/images/20201219192949.png?raw=true" width="500"/>
 </center>
-
-
-
 
 ------
 
