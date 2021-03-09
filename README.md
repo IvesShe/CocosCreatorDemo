@@ -208,7 +208,7 @@
     <img src="https://github.com/IvesShe/React_Redux/raw/main/images/20210308234012.png?raw=true" width="500"/>
 </center>
 
-3. [React Router 和 SPA](https://ivesshe.github.io/React_Router/)
+3. [React Router 和 SPA](https://github.com/IvesShe/React_Router/)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Router/raw/main/images/20210307160815.png?raw=true" width="500"/>
 </center>
