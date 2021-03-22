@@ -276,7 +276,7 @@
 
 # **(七) HTML、CSS**
 
-1. [HTML、CSS 學成網 首頁製作](https://github.com/IvesShe/HTML_CSS_Web_LearnOnline)
+1. [HTML、CSS 學成在線 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_LearnOnline)
 <center class="half">
     <img src="https://github.com/IvesShe/HTML_CSS_Web_LearnOnline/raw/main/images/image2021-03-2220.47.27.png?raw=true" width="500"/>
 </center>
