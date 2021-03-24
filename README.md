@@ -277,7 +277,7 @@
 
 # **(七) HTML、CSS**
 
-1. [# HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
+1. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
 <center class="half">
     <img src="https://github.com/IvesShe/HTML_CSS_Web_PinYouGo/blob/main/images/image2021-03-2418.07.11.png?raw=true" width="500"/>
 </center>
