@@ -336,6 +336,11 @@
     <img src="https://github.com/IvesShe/MySQL_Master_Slave/raw/main/images/20210131124316.png?raw=true" width="500"/>
 </center>
 
+6. [MySQL 查表實作](https://github.com/IvesShe/MySQL_InterviewQuestions)
+<center class="half">
+    <img src="https://github.com/IvesShe/MySQL_InterviewQuestions/raw/main/images/20210328142401.png?raw=true" width="500"/>
+</center>
+
 
 ------
 
