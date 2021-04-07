@@ -9,11 +9,10 @@
 (五) React.js
 (六) Vue.js
 (七) HTML、CSS
-(八) Lua
-(九) 棋牌遊戲規則筆記
-(十) Database 數據庫
-(十一) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
-(十二) CocosCreator
+(八) 棋牌遊戲規則筆記
+(九) Database 數據庫
+(十) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
+(十一) CocosCreator
 ```
 # **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
 
@@ -298,17 +297,7 @@
 </center>
 
 ------
-
-# **(八) Lua**
-
-1. [Lua Study](https://github.com/IvesShe/LuaStudy)
-<center class="half">
-    <img src="https://github.com/IvesShe/LuaStudy/raw/master/images/20200904161421.png?raw=true" width="500"/>
-</center>
-
-------
-
-# **(九) 棋牌遊戲規則筆記**
+# **(八) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -319,7 +308,7 @@
 
 ------
 
-# **(十) Database 數據庫**
+# **(九) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -350,7 +339,7 @@
 
 ------
 
-# **(十一) 自主學習區**
+# **(十) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -400,9 +389,14 @@
     <img src="https://github.com/IvesShe/VSCode_Remote_ssh/raw/main/images/20210117153120.png?raw=true" width="500"/>
 </center>
 
+10. [Lua Study](https://github.com/IvesShe/LuaStudy)
+<center class="half">
+    <img src="https://github.com/IvesShe/LuaStudy/raw/master/images/20200904161421.png?raw=true" width="500"/>
+</center>
+
 ------
 
-# **(十二) CocosCreator**
+# **(十一) CocosCreator**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
