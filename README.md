@@ -124,7 +124,7 @@
 </center>
 
 # **(三) Node.js**
-1. [GCP 搭配Nginx、Nodejs、Docker，使用GoDaddy申請網域](https://github.com/IvesShe/GCP_Nodejs_Nginx)
+1. [GCP搭配Nginx、Nodejs、Docker，使用GoDaddy申請網域](https://github.com/IvesShe/GCP_Nodejs_Nginx)
 <center class="half">
     <img src="https://github.com/IvesShe/GCP_Nodejs_Nginx/raw/main/images/20210523113243.png?raw=true" width="500"/>
 </center>
