@@ -154,7 +154,7 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887809221.jpg?raw=true" width="500"/>
 </center>
 
-6. [物件反轉](https://github.com/IvesShe/Nodejs_ObjcetReverse)
+7. [物件反轉](https://github.com/IvesShe/Nodejs_ObjcetReverse)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_ObjcetReverse/raw/main/images/20210217114420.png?raw=true" width="500"/>
 </center>
