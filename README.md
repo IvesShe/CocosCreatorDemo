@@ -6,13 +6,14 @@
 (二) Golang
 (三) Node.js
 (四) PHP
-(五) React.js
-(六) Vue.js
-(七) HTML、CSS
-(八) 棋牌遊戲規則筆記
-(九) Database 數據庫
-(十) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
-(十一) CocosCreator
+(五) Java
+(六) React.js
+(七) Vue.js
+(八) HTML、CSS
+(九) 棋牌遊戲規則筆記
+(十) Database 數據庫
+(十一) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
+(十二) CocosCreator
 ```
 # **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
 
@@ -200,7 +201,16 @@
 
 ------
 
-# **(五) React.js**
+# **(五) JAVA**
+
+1. [JAVA Maven](https://github.com/IvesShe/Java_Maven)
+<center class="half">
+    <img src="https://github.com/IvesShe/PHP_Laravel_Study/raw/main/images/20201218144205.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(六) React.js**
 
 1. [React react-redux](https://github.com/IvesShe/React_react-redux)
 <center class="half">
@@ -259,7 +269,7 @@
 
 ------
 
-# **(六) Vue.js**
+# **(七) Vue.js**
 
 1. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
 <center class="half">
@@ -278,7 +288,7 @@
 
 ------
 
-# **(七) HTML、CSS**
+# **(八) HTML、CSS**
 
 1. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
 <center class="half">
@@ -313,7 +323,7 @@
 
 
 ------
-# **(八) 棋牌遊戲規則筆記**
+# **(九) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -324,7 +334,7 @@
 
 ------
 
-# **(九) Database 數據庫**
+# **(十) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -360,7 +370,7 @@
 
 ------
 
-# **(十) 自主學習區**
+# **(十一) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -422,7 +432,7 @@
 
 ------
 
-# **(十一) CocosCreator**
+# **(十二) CocosCreator**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
