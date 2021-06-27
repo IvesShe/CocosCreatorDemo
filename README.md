@@ -205,7 +205,7 @@
 
 1. [JAVA Maven](https://github.com/IvesShe/Java_Maven)
 <center class="half">
-    <img src="https://github.com/IvesShe/PHP_Laravel_Study/raw/main/images/20201218144205.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/Java_Maven/raw/main/images/20210530191045.png?raw=true" width="500"/>
 </center>
 
 ------
