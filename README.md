@@ -209,43 +209,43 @@
 </center>
 
 2. [JAVA MyBatis]()
-構置中
+構建中
 
 3. [JAVA Spring]()
-構置中
+構建中
 
 4. [JAVA SpringMVC]()
-構置中
+構建中
 
 5. [JAVA ZooKeeper]()
-構置中
+構建中
 
 6. [JAVA Dubbo]()
-構置中
+構建中
 
 7. [JAVA SpringBoot]()
-構置中
+構建中
 
 8. [RabbitMQ]()
-構置中
+構建中
 
 9. [JAVA SpringCloud]()
-構置中
+構建中
 
 10. [JAVA Sharding-JDBC]()
-構置中
+構建中
 
 11. [Kafka]()
-構置中
+構建中
 
 12. [ElasticSearch]()
-構置中
+構建中
 
 13. [Jenkins]()
-構置中
+構建中
 
 14. [Design Pattern]()
-構置中
+構建中
 
 ------
 
