@@ -233,8 +233,10 @@
     <img src="https://github.com/IvesShe/Java_SpringCloud/raw/main/images/20210705195443.png?raw=true" width="500"/>
 </center>
 
-7. [JAVA ZooKeeper]()
-構建中
+7. [JAVA ZooKeeper](https://github.com/IvesShe/Java_ZooKeeper)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_ZooKeeper/raw/main/images/20210707211625.png?raw=true" width="500"/>
+</center>
 
 8. [JAVA Dubbo]()
 構建中
