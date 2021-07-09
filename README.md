@@ -243,10 +243,12 @@
     <img src="https://github.com/IvesShe/Java_Dubbo/raw/main/images/20210708095903.png?raw=true" width="500"/>
 </center>
 
-9. [RabbitMQ]()
-構建中
+9. [Kafka](https://github.com/IvesShe/Java_Kafka)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_Kafka/raw/main/images/20210709115241.png?raw=true" width="500"/>
+</center>
 
-10. [Kafka]()
+10. [RabbitMQ]()
 構建中
 
 11. [ElasticSearch]()
