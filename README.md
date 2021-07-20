@@ -258,16 +258,19 @@
     <img src="https://github.com/IvesShe/Java_ElasticSearch/raw/main/images/20210714205920.png?raw=true" width="500"/>
 </center>
 
-12. [Jenkins]()
+12. [Android Studio]()
 構建中
 
-13. [CI/CD]()
+13. [Jenkins]()
 構建中
 
-14. [JAVA Sharding-JDBC]()
+14. [CI/CD]()
 構建中
 
-15. [Design Pattern]()
+15. [JAVA Sharding-JDBC]()
+構建中
+
+16. [Design Pattern]()
 構建中
 
 ------
