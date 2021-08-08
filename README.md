@@ -348,7 +348,7 @@
 
 3. [Vue MusicPlayer](https://github.com/IvesShe/Vue_MusicPlayer)
 <center class="half">
-    <img src="https://github.com/IvesShe/Vue_Weather/raw/gh-pages/images/20200907144325.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/Vue_MusicPlayer/raw/master/images_readme/20200908114347.png?raw=true" width="500"/>
 </center>
 
 4. [Vue Weather](https://github.com/IvesShe/Vue_Weather)
