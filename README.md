@@ -279,9 +279,8 @@
 
 # **(六) React.js**
 
-1. [React 電商後台]()
+1. [React 電商後台 搭配AntDesgin]()
 構建中
-
 
 2. [React react-redux](https://github.com/IvesShe/React_react-redux)
 <center class="half">
@@ -337,7 +336,7 @@
 
 # **(七) Vue.js**
 
-1. [Vue 電商購物網站](https://github.com/IvesShe/Vue_SuperMall)
+1. [Vue 電商購物網站 搭配ElementUI](https://github.com/IvesShe/Vue_SuperMall)
 <center class="half">
     <img src="https://github.com/IvesShe/Vue_SuperMall/raw/main/images/20210725165521.png?raw=true" width="500"/>
 </center>
