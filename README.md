@@ -338,7 +338,7 @@
 
 1. [Vue 電商購物網站](https://github.com/IvesShe/Vue_SuperMall)
 <center class="half">
-    <img src="https://github.com/IvesShe/Vue_SuperMall/raw/main/images/20210725165521.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/Vue_SuperMall/raw/main/images/20210726162714.png?raw=true" width="500"/>
 </center>
 
 2. [Vue 電商後台網站 搭配ElementUI](https://github.com/IvesShe/Vue_Shop_Admin)
