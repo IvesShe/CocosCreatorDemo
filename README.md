@@ -15,6 +15,9 @@
 (十一) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
 (十二) CocosCreator
 ```
+
+僅以完成核心模塊 或 自己想練習的技術 為主
+
 # **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
 
 1. [Golang 搭配Cocos Creator2.4.3 製作簡易SlotGame(拉霸機)](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
