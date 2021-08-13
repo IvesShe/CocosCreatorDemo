@@ -15,8 +15,7 @@
 (十一) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
 (十二) CocosCreator
 ```
-
-**僅以完成核心模塊 或 自己想練習的技術 為主**
+(僅以完成核心模塊或自己想練習的技術為主，持續更新中)
 
 # **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
 
