@@ -351,7 +351,7 @@
     <img src="https://github.com/IvesShe/Vue_Shop_Admin/raw/main/images/20210808172154.png?raw=true" width="500"/>
 </center>
 
-3. [Vue 移動版外賣平台](https://github.com/IvesShe/https://github.com/IvesShe/Vue_Takeouts)
+3. [Vue 移動版外賣平台](https://github.com/IvesShe/Vue_Takeouts)
 <center class="half">
     <img src="https://github.com/IvesShe/Vue_Takeouts/raw/main/images/20211114120701.png?raw=true" width="500"/>
 </center>
