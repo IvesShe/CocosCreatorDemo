@@ -356,6 +356,11 @@
     <img src="https://github.com/IvesShe/Vue_Takeouts/raw/main/images/20211114120701.png?raw=true" width="500"/>
 </center>
 
+4. [Vue 移動版電商網站搭配VantUI](https://github.com/IvesShe/Vue_VantUI_Shop)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_VantUI_Shop/raw/main/images/20211208103558.png?raw=true" width="500"/>
+</center>
+
 5. [Vue 電商數據可視化網站]()
 構建中
 
@@ -412,6 +417,10 @@
     <img src="https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu/raw/main/images/20210408210022.png?raw=true" width="500"/>
 </center>
 
+7. [金魚切版筆記](https://github.com/IvesShe/HTML_CSS_GoldFishLayout)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_GoldFishLayout/raw/main/images/20211207213142.png?raw=true" width="500"/>
+</center>
 
 
 ------
