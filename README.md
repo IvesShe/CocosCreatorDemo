@@ -358,7 +358,7 @@
 
 4. [Vue 移動版電商網站搭配VantUI](https://github.com/IvesShe/Vue_VantUI_Shop)
 <center class="half">
-    <img src="https://github.com/IvesShe/Vue_VantUI_Shop/raw/main/images/20211208103558.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/Vue_VantUI_Shop/raw/main/images/20211209180348.png?raw=true" width="500"/>
 </center>
 
 5. [Vue 電商數據可視化網站]()
