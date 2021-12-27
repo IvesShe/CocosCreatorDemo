@@ -353,7 +353,7 @@
 
 2. [Vue 電商後台網站 搭配ElementUI](https://github.com/IvesShe/Vue_Shop_Admin)
 <center class="half">
-    <img src="https://github.com/IvesShe/Vue_Shop_Admin/raw/main/images/20210808172154.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/Vue_Shop_Admin/raw/main/images/20210912205626.png?raw=true" width="500"/>
 </center>
 
 3. [Vue 移動版外賣平台](https://github.com/IvesShe/Vue_Takeouts)
