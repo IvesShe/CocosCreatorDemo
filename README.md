@@ -132,35 +132,41 @@
     <img src="https://github.com/IvesShe/GCP_Nodejs_Nginx/raw/main/images/20210523104913.png?raw=true" width="500"/>
 </center>
 
-2. [Node.js Express](https://github.com/IvesShe/Nodejs_Express)
+2. [Node.js 電商後台後端]()
+建構中
+
+3. [Node.js Express](https://github.com/IvesShe/Nodejs_Express)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_Express/blob/master/images/20200824161316.png?raw=true" width="500"/>
 </center>
 
-3. [Node.js Protobuf](https://github.com/IvesShe/Nodejs_protobuf)
+4. [Node.js Protobuf](https://github.com/IvesShe/Nodejs_protobuf)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_protobuf/blob/master/images/20200828140029.png?raw=true" width="500"/>
 </center>
 
-4. [Jest Study(Unit Test)](https://github.com/IvesShe/JestStudy)
+5. [Jest Study(Unit Test)](https://github.com/IvesShe/JestStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/JestStudy/blob/master/images/20200826203503.png?raw=true" width="500"/>
 </center>
 
-5. [WebSocket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
+6. [WebSocket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
 
-6. [Socket聊天室(node.js + socket.io)](https://github.com/IvesShe/ChatRoomSocket)
+7. [Socket聊天室(node.js + socket.io)](https://github.com/IvesShe/ChatRoomSocket)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887809221.jpg?raw=true" width="500"/>
 </center>
 
-7. [物件反轉](https://github.com/IvesShe/Nodejs_ObjcetReverse)
+8. [物件反轉](https://github.com/IvesShe/Nodejs_ObjcetReverse)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_ObjcetReverse/raw/main/images/20210217114420.png?raw=true" width="500"/>
 </center>
+
+9. [Node.js Note]()
+建構中
 
 ------
 
