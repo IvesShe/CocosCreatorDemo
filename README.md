@@ -285,8 +285,22 @@
 構建中
 
 ------
+# **(八) React Native**
 
-# **(八) React.js**
+1. [React Native Note](https://github.com/IvesShe/ReactNative_Note)
+<center class="half">
+    <img src="https://github.com/IvesShe/ReactNative_Note/raw/main/images/20211224212342.png?raw=true" width="500"/>
+</center>
+
+2. [React Native 線上課程App]()
+構建中
+
+3. [React Native 計算機App]()
+構建中
+
+------
+
+# **(九) React.js**
 
 1. [React 電商後台 搭配AntDesgin](https://github.com/IvesShe/React_Admin)
 <center class="half">
@@ -343,19 +357,7 @@
     <img src="https://github.com/IvesShe/React_Proxy/raw/main/images/20210227151945.png?raw=true" width="500"/>
 </center>
 
-------
-# **(九) React Native**
 
-1. [React Native Note](https://github.com/IvesShe/ReactNative_Note)
-<center class="half">
-    <img src="https://github.com/IvesShe/ReactNative_Note/raw/main/images/20211224212342.png?raw=true" width="500"/>
-</center>
-
-2. [React Native 線上課程App]()
-構建中
-
-3. [React Native 計算機App]()
-構建中
 
 ------
 
