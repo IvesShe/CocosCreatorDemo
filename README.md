@@ -564,7 +564,7 @@
 
 # **(十五) CocosCreator**
 
-1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
+1. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
 </center>
@@ -604,7 +604,7 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633482.jpg?raw=true" width="200"/>
 </center>
 
-9. [UI_Demo(開發中)](https://ivesshe.github.io/UI_Demo/)
+9. [UI_Demo](https://ivesshe.github.io/UI_Demo/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/UI_Demo/S__38723587.jpg?raw=true" width="200"/>
 </center>
@@ -614,7 +614,7 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/S__38658050.jpg?raw=true" width="200"/>
 </center>
    
-11. [飛機大戰(開發中)](https://ivesshe.github.io/aircraftWeb/)
+11. [飛機大戰)](https://ivesshe.github.io/aircraftWeb/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868861212.jpg?raw=true" width="200"/>
 </center>
