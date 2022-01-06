@@ -7,13 +7,16 @@
 (三) Node.js
 (四) PHP
 (五) Java
-(六) React.js
-(七) Vue.js
-(八) HTML、CSS
-(九) 棋牌遊戲規則筆記
-(十) Database 數據庫
-(十一) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
-(十二) CocosCreator
+(六) Android
+(七) IOS
+(八) React Native
+(九) React.js
+(十) Vue.js
+(十一) HTML、CSS
+(十二) 棋牌遊戲規則筆記
+(十三) Database 數據庫
+(十四) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
+(十五) CocosCreator
 ```
 (僅以完成核心模塊或自己想練習的技術為主，持續更新中)
 
@@ -41,12 +44,12 @@
     <img src="https://github.com/IvesShe/Golang_Gin/raw/master/images/20200818175658.png?raw=true" width="500"/>
 </center>
 
-4. [Golang IM 聊天通訊系統(開發中)](https://github.com/IvesShe/Golang_IM)
+4. [Golang IM 簡易聊天通訊系統](https://github.com/IvesShe/Golang_IM)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_IM/blob/main/images/20201129173348.png?raw=true" width="500"/>
 </center>
 
-5. [Golang Websocket搭配Protobuf(開發中)](https://github.com/IvesShe/Golang_Websocket_Protobuf)
+5. [Golang Websocket搭配Protobuf)](https://github.com/IvesShe/Golang_Websocket_Protobuf)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_Websocket_Protobuf/blob/main/images/20201129172049.png?raw=true" width="500"/>
 </center>
@@ -281,7 +284,7 @@
 構建中
 
 ------
-# **(六) Android App**
+# **(六) Android**
 1. [Android Studio Note](https://github.com/IvesShe/Java_Android)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Android/raw/main/images/20210724111312.png?raw=true" width="500"/>
@@ -559,7 +562,7 @@
 
 ------
 
-# **(十三) CocosCreator**
+# **(十五) CocosCreator**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
