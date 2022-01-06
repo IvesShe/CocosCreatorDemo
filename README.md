@@ -260,41 +260,52 @@
     <img src="https://github.com/IvesShe/Java_ElasticSearch/raw/main/images/20210714205920.png?raw=true" width="500"/>
 </center>
 
-12. [Android Studio](https://github.com/IvesShe/Java_Android)
+12. [Jenkins]()
+構建中
+
+13. [CI/CD]()
+構建中
+
+14. [JAVA Sharding-JDBC]()
+構建中
+
+15. [Design Pattern]()
+構建中
+
+------
+# **(六) Android**
+1. [Android Studio Note](https://github.com/IvesShe/Java_Android)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Android/raw/main/images/20210724111312.png?raw=true" width="500"/>
 </center>
 
-13. [Jenkins]()
-構建中
-
-14. [CI/CD]()
-構建中
-
-15. [JAVA Sharding-JDBC]()
-構建中
-
-16. [Design Pattern]()
+------
+# **(七) IOS**
+1. []()
 構建中
 
 ------
 
-# **(六) React.js**
+# **(八) React.js**
 
-1. [React Native 交友App]()
-構建中
-
-2. [React 電商後台 搭配AntDesgin]()
-構建中
-
-3. [React Native Note](https://github.com/IvesShe/ReactNative_Note)
+1. [React 電商後台 搭配AntDesgin](https://github.com/IvesShe/React_Admin)
 <center class="half">
-    <img src="https://github.com/IvesShe/ReactNative_Note/raw/main/images/20211224212342.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_Admin/raw/main/images/20220106211125.png?raw=true" width="500"/>
 </center>
 
-4. [React react-redux](https://github.com/IvesShe/React_react-redux)
+2. [React 搭配Next.js](https://github.com/IvesShe/React_NextJS)
 <center class="half">
-    <img src="https://github.com/IvesShe/React_react-redux/raw/main/images/20210309175125.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_NextJS/raw/main/images/image2021-03-1420.11.25.png?raw=true" width="500"/>
+</center>
+
+3. [React Hooks](https://github.com/IvesShe/React_Hooks)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_Hooks/raw/main/images/20210309233449.png?raw=true" width="500"/>
+</center>
+
+4. [React Ant Design](https://github.com/IvesShe/React_AntDesign)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_AntDesign/raw/main/images/20210308143852.png?raw=true" width="500"/>
 </center>
 
 5. [React Redux](https://github.com/IvesShe/React_Redux)
@@ -302,14 +313,14 @@
     <img src="https://github.com/IvesShe/React_Redux/raw/main/images/20210308234012.png?raw=true" width="500"/>
 </center>
 
-6. [React Hooks](https://github.com/IvesShe/React_Hooks)
+6. [React react-redux](https://github.com/IvesShe/React_react-redux)
 <center class="half">
-    <img src="https://github.com/IvesShe/React_Hooks/raw/main/images/20210309233449.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_react-redux/raw/main/images/20210309175125.png?raw=true" width="500"/>
 </center>
 
-7. [React 搭配Next.js](https://github.com/IvesShe/React_NextJS)
+7. [React Github Search](https://github.com/IvesShe/React_Github_Search/)
 <center class="half">
-    <img src="https://github.com/IvesShe/React_NextJS/raw/main/images/image2021-03-1420.11.25.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_Github_Search/raw/main/images/20210228125311.png?raw=true" width="500"/>
 </center>
 
 8. [React Router 和 SPA](https://github.com/IvesShe/React_Router/)
@@ -317,34 +328,38 @@
     <img src="https://github.com/IvesShe/React_Router/raw/main/images/20210307160815.png?raw=true" width="500"/>
 </center>
 
-9. [React Ant Design](https://github.com/IvesShe/React_AntDesign)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_AntDesign/raw/main/images/20210308143852.png?raw=true" width="500"/>
-</center>
-
-10. [React Github Search](https://github.com/IvesShe/React_Github_Search/)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_Github_Search/raw/main/images/20210228125311.png?raw=true" width="500"/>
-</center>
-
-11. [React TodoList](https://github.com/IvesShe/React_TodoList)
+9. [React TodoList](https://github.com/IvesShe/React_TodoList)
 <center class="half">
     <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210227110434.png?raw=true" width="500"/>
 </center>
 
-12. [React Github Search PubSub 使用消息訂閱、補充Fetch、async、await](https://github.com/IvesShe/React_Github_Search_PubSub/)
+10. [React Github Search PubSub 使用消息訂閱、補充Fetch、async、await](https://github.com/IvesShe/React_Github_Search_PubSub/)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Github_Search_PubSub/raw/main/images/20210228150125.png?raw=true" width="500"/>
 </center>
 
-13. [React Proxy 配置代理 搭配Node.js服務器](https://github.com/IvesShe/React_Proxy)
+11. [React Proxy 配置代理 搭配Node.js服務器](https://github.com/IvesShe/React_Proxy)
 <center class="half">
     <img src="https://github.com/IvesShe/React_Proxy/raw/main/images/20210227151945.png?raw=true" width="500"/>
 </center>
 
 ------
+# **(九) React Native**
 
-# **(七) Vue.js**
+1. [React Native Note](https://github.com/IvesShe/ReactNative_Note)
+<center class="half">
+    <img src="https://github.com/IvesShe/ReactNative_Note/raw/main/images/20211224212342.png?raw=true" width="500"/>
+</center>
+
+2. [React Native 線上課程App]()
+構建中
+
+3. [React Native 計算機App]()
+構建中
+
+------
+
+# **(十) Vue.js**
 
 1. [Vue 電商購物網站](https://github.com/IvesShe/Vue_SuperMall)
 <center class="half">
@@ -384,13 +399,9 @@
     <img src="https://github.com/IvesShe/Vue_Notepad/raw/master/images/20200907132935.png?raw=true" width="500"/>
 </center>
 
-
-
-
-
 ------
 
-# **(八) HTML、CSS**
+# **(十一) HTML、CSS**
 
 1. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
 <center class="half">
@@ -429,7 +440,7 @@
 
 
 ------
-# **(九) 棋牌遊戲規則筆記**
+# **(十二) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -440,7 +451,7 @@
 
 ------
 
-# **(十) Database 數據庫**
+# **(十三) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -476,7 +487,7 @@
 
 ------
 
-# **(十一) 自主學習區**
+# **(十四) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -538,7 +549,7 @@
 
 ------
 
-# **(十二) CocosCreator**
+# **(十三) CocosCreator**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)(開發中)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
