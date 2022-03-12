@@ -27,7 +27,7 @@
     <img src="https://github.com/IvesShe/Golang_CocosCreator_3Slot/blob/main/images/20201219103943.png?raw=true" width="500"/>
 </center>
 
-2. [NodeJs後台管理系統 搭配jQuery](https://github.com/IvesShe/Nodejs_BackManagement)
+2. [NodeJs後台管理全端項目 前端搭配jQuery](https://github.com/IvesShe/Nodejs_BackManagement)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_BackManagement/raw/main/images/20220311144305.png?raw=true" width="500"/>
 </center>
