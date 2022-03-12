@@ -2,7 +2,7 @@
 
 項目大綱
 ```
-(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3
+(一) 全端(棧)項目
 (二) Golang
 (三) Node.js
 (四) PHP
@@ -20,11 +20,16 @@
 ```
 (僅以完成核心模塊或自己想練習的技術為主，持續更新中)
 
-# **(一) 全端(棧) - Golang 搭配Cocos Creator2.4.3**
+# **(一) 全端(棧)項目**
 
 1. [Golang 搭配Cocos Creator2.4.3 製作簡易SlotGame(拉霸機)](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
 <center class="half">
     <img src="https://github.com/IvesShe/Golang_CocosCreator_3Slot/blob/main/images/20201219103943.png?raw=true" width="500"/>
+</center>
+
+2. [NodeJs後台管理系統 搭配jQuery]()
+<center class="half">
+    <img src="" width="500"/>
 </center>
 
 # **(二) Golang**
@@ -135,41 +140,35 @@
     <img src="https://github.com/IvesShe/GCP_Nodejs_Nginx/raw/main/images/20210523104913.png?raw=true" width="500"/>
 </center>
 
-2. [Node.js 電商後台後端]()
-構建中
-
-3. [Node.js Express](https://github.com/IvesShe/Nodejs_Express)
+2. [Node.js Express](https://github.com/IvesShe/Nodejs_Express)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_Express/blob/master/images/20200824161316.png?raw=true" width="500"/>
 </center>
 
-4. [Node.js Protobuf](https://github.com/IvesShe/Nodejs_protobuf)
+3. [Node.js Protobuf](https://github.com/IvesShe/Nodejs_protobuf)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_protobuf/blob/master/images/20200828140029.png?raw=true" width="500"/>
 </center>
 
-5. [Jest Study(Unit Test)](https://github.com/IvesShe/JestStudy)
+4. [Jest Study(Unit Test)](https://github.com/IvesShe/JestStudy)
 <center class="half">
     <img src="https://github.com/IvesShe/JestStudy/blob/master/images/20200826203503.png?raw=true" width="500"/>
 </center>
 
-6. [WebSocket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
+5. [WebSocket聊天室(node.js + WebSocket)](https://github.com/IvesShe/ChatRoomWebSocketV2)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587886417578.jpg?raw=true" width="500"/>
 </center>
 
-7. [Socket聊天室(node.js + socket.io)](https://github.com/IvesShe/ChatRoomSocket)
+6. [Socket聊天室(node.js + socket.io)](https://github.com/IvesShe/ChatRoomSocket)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/2/1587887809221.jpg?raw=true" width="500"/>
 </center>
 
-8. [物件反轉](https://github.com/IvesShe/Nodejs_ObjcetReverse)
+7. [物件反轉](https://github.com/IvesShe/Nodejs_ObjcetReverse)
 <center class="half">
     <img src="https://github.com/IvesShe/Nodejs_ObjcetReverse/raw/main/images/20210217114420.png?raw=true" width="500"/>
 </center>
-
-9. [Node.js Note]()
-建構中
 
 ------
 
@@ -412,9 +411,15 @@
     <img src="https://github.com/IvesShe/Vue_Notepad/raw/master/images/20200907132935.png?raw=true" width="500"/>
 </center>
 
+
+# **(十一) Angular.js**
+
+1. [Angular Note]()
+建構中
+
 ------
 
-# **(十一) HTML、CSS**
+# **(十二) HTML、CSS**
 
 1. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
 <center class="half">
@@ -453,7 +458,7 @@
 
 
 ------
-# **(十二) 棋牌遊戲規則筆記**
+# **(十三) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -464,7 +469,7 @@
 
 ------
 
-# **(十三) Database 數據庫**
+# **(十四) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -500,7 +505,7 @@
 
 ------
 
-# **(十四) 自主學習區**
+# **(十五) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -562,7 +567,7 @@
 
 ------
 
-# **(十五) CocosCreator**
+# **(十六) CocosCreator**
 
 1. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
