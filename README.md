@@ -12,11 +12,12 @@
 (八) React Native
 (九) React.js
 (十) Vue.js
-(十一) HTML、CSS
-(十二) 棋牌遊戲規則筆記
-(十三) Database 數據庫
-(十四) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
-(十五) CocosCreator
+(十一) Angular.js
+(十二) HTML、CSS
+(十三) 棋牌遊戲規則筆記
+(十四) Database 數據庫
+(十五) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
+(十六) CocosCreator
 ```
 (僅以完成核心模塊或自己想練習的技術為主，持續更新中)
 
