@@ -290,7 +290,7 @@
 
 ------
 # **(七) IOS**
-1. []()
+1. [Swift Note]()
 構建中
 
 ------
@@ -306,8 +306,12 @@
     <img src="https://github.com/IvesShe/ReactNative_TxClass/raw/main/images/20220125110354.png?raw=true" width="500"/>
 </center>
 
-3. [React Native 計算機App]()
+3. [React Native 電商App]()
 構建中
+
+4. [React Native 計算機App]()
+構建中
+
 
 ------
 
@@ -318,7 +322,7 @@
     <img src="https://github.com/IvesShe/React_Admin/raw/main/images/20220124184303.png?raw=true" width="500"/>
 </center>
 
-2. [React 電商前台 搭配AntDesgin]()
+2. [React 電商前台 搭配Next.js]()
 構建中
 
 3. [React 搭配Next.js](https://github.com/IvesShe/React_NextJS)
@@ -418,7 +422,7 @@ https://github.com/IvesShe/Angular_Note.git
 <center class="half">
     <img src="https://github.com/IvesShe/Angular_Note/raw/main/images/20220314105326.png?raw=true" width="500"/>
 </center>
-2. [Angular 簡易財經網站]
+2. [Angular 財經網站]
 構建中
 
 ------
