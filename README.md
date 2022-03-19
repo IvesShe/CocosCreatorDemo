@@ -422,7 +422,8 @@ https://github.com/IvesShe/Angular_Note.git
 <center class="half">
     <img src="https://github.com/IvesShe/Angular_Note/raw/main/images/20220314105326.png?raw=true" width="500"/>
 </center>
-2. [Angular 財經網站]
+
+2. [Angular 財經網站]()
 構建中
 
 ------
