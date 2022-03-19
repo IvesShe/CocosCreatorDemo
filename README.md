@@ -408,15 +408,13 @@
 </center>
 
 8. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_Notepad/raw/master/images/20200907132935.png?raw=true" width="500"/>
-</center>
+https://github.com/IvesShe/Angular_Note.git
 
 
 # **(十一) Angular.js**
 
-1. [Angular Note]()
-建構中
+1. [Angular Note](https://github.com/IvesShe/Angular_Note.git)
+https://github.com/IvesShe/Angular_Note.git
 
 ------
 
