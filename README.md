@@ -318,12 +318,14 @@
 # **(九) React.js**
 
 1. [React 電商後台 搭配AntDesgin](https://github.com/IvesShe/React_Admin)
-<center class="half">
+<center class="half"></center>
     <img src="https://github.com/IvesShe/React_Admin/raw/main/images/20220124184303.png?raw=true" width="500"/>
 </center>
 
-2. [React 電商前台 搭配Next.js]()
-構建中
+2. [React 電商前台 搭配Next.js](https://github.com/IvesShe/React_Next_Shop)
+<center class="half"></center>
+    <img src="hhttps://github.com/IvesShe/React_Next_Shop/raw/main/images/20220321094820.png?raw=true" width="500"/>
+</center>
 
 3. [React 搭配Next.js](https://github.com/IvesShe/React_NextJS)
 <center class="half">
