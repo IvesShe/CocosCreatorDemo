@@ -324,7 +324,7 @@
 
 2. [React 電商前台 搭配Next.js](https://github.com/IvesShe/React_Next_Shop)
 <center class="half"></center>
-    <img src="https://github.com/IvesShe/React_Next_Shop/raw/main/images/20220321094820.png?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/React_Next_Shop/raw/main/images/20220323150229.png?raw=true" width="500"/>
 </center>
 
 3. [React 搭配Next.js](https://github.com/IvesShe/React_NextJS)
