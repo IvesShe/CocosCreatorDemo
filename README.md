@@ -309,9 +309,16 @@
 3. [React Native 電商App]()
 構建中
 
-4. [React Native 計算機App]()
+4. [React Native 計算機App](https://github.com/IvesShe/ReactNativeCalculate)
+<center class="half">
+    <img src="https://github.com/IvesShe/ReactNativeCalculate/raw/main/images/Xnip2022-03-26_17-35-36.jpg?raw=true" width="500"/>
+</center>
+
+5. [React Native 天氣查詢App]()
 構建中
 
+6. [React Native 公共設施查詢App]()
+構建中
 
 ------
 
