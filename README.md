@@ -320,6 +320,11 @@
 6. [React Native 公共設施查詢App]()
 構建中
 
+7. [React Native 藝文活動查詢App](https://github.com/IvesShe/ReactNativeActivitySearch)
+<center class="half">
+    <img src="https://github.com/IvesShe/ReactNativeActivitySearch/raw/main/images/Xnip2022-03-27_18-23-57.jpg?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(九) React.js**
