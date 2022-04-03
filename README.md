@@ -292,7 +292,7 @@
 # **(七) IOS**
 1. [IOS Note](https://github.com/IvesShe/IOS_Note)
 <center class="half">
-    <img src="https://github.com/IvesShe/IOS_Note/raw/main/images/Xnip2022-04-02_14-06-41.jpg?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/IOS_Note/raw/main/images/Xnip2022-04-03_14-45-30.jpg?raw=true" width="500"/>
 </center>
 
 ------
