@@ -421,8 +421,10 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Vue_VantUI_Shop/raw/main/images/20211220103731.png?raw=true" width="500"/>
 </center>
 
-5. [Vue 電商數據可視化網站]()
-構建中
+5. [Vue 電商數據可視化網站(ECharts)](https://github.com/IvesShe/Vue_ECharts)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_ECharts/raw/main/images/Xnip2022-07-12_19-55-18.jpg?raw=true" width="500"/>
+</center>
 
 6. [Vue MusicPlayer](https://github.com/IvesShe/Vue_MusicPlayer)
 <center class="half">
