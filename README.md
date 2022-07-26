@@ -426,17 +426,22 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Vue_ECharts/raw/main/images/Xnip2022-07-12_19-55-18.jpg?raw=true" width="500"/>
 </center>
 
-6. [Vue MusicPlayer](https://github.com/IvesShe/Vue_MusicPlayer)
+6. [Vue 尚品匯電商購物平台](https://github.com/IvesShe/Vue_Shangpinhui)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Shangpinhui/raw/main/images/Xnip2022-07-26_11-15-17.jpg?raw=true" width="500"/>
+</center>
+
+7. [Vue MusicPlayer](https://github.com/IvesShe/Vue_MusicPlayer)
 <center class="half">
     <img src="https://github.com/IvesShe/Vue_MusicPlayer/raw/master/images_readme/20200908114347.png?raw=true" width="500"/>
 </center>
 
-7. [Vue Weather](https://github.com/IvesShe/Vue_Weather)
+8. [Vue Weather](https://github.com/IvesShe/Vue_Weather)
 <center class="half">
     <img src="https://github.com/IvesShe/Vue_Weather/raw/gh-pages/images/20200907144325.png?raw=true" width="500"/>
 </center>
 
-8. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
+9. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
 https://github.com/IvesShe/Angular_Note.git
 
 
