@@ -442,7 +442,9 @@ ivesshe@gmail.com
 </center>
 
 9. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
-https://github.com/IvesShe/Angular_Note.git
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Notepad/raw/master/images/20200907132935.png?raw=true" width="500"/>
+</center>
 
 
 # **(十一) Angular.js**
