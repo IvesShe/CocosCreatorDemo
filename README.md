@@ -23,6 +23,8 @@
 
 註∶ 這倉庫是公開項目用的，實際開發會在另一個私有倉庫進行，作到一定的階段才會決定所欲公開的範圍，再發表到這邊，所以commit次數僅供參考。
 
+<font color=#FF0000>Cocos Creator、Vue 接案請洽信箱</font>
+
 ivesshe@gmail.com
 
 # **(一) 全端(棧)項目**
