@@ -2,22 +2,23 @@
 
 **項目大綱**
 ```
-(一) 全端(棧)項目
-(二) Golang
-(三) Node.js
-(四) PHP
-(五) Java
-(六) Android
-(七) IOS
-(八) React Native
-(九) React.js
-(十) Vue.js
-(十一) Angular.js
-(十二) HTML、CSS
-(十三) 棋牌遊戲規則筆記
-(十四) Database 數據庫
-(十五) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
-(十六) CocosCreator
+(一) CocosCreator
+(二) Vue.js
+(三) React.js
+(四) HTML、CSS
+(五) 棋牌遊戲規則筆記
+(六) 全端(棧)項目
+(七) Golang
+(八) Node.js
+(九) PHP
+(十) Java
+(十一) Android
+(十二) IOS
+(十三) React Native
+(十四) Angular.js
+(十五) Database 數據庫
+(十六) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
+
 ```
 **(僅以完成核心模塊或自己想練習的技術為主，持續更新中)**
 
@@ -27,7 +28,284 @@
 
 ivesshe@gmail.com
 
-# **(一) 全端(棧)項目**
+# **(一) CocosCreator**
+
+1. [趣味翻牌(Cocos Creator 3.8.0)](https://cocos-poker-turn-web-mffx.vercel.app/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
+</center>
+
+2. [接雞蛋(Cocos Creator 3.8.0)](https://cocos-chicken-web-154k.vercel.app/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
+</center>
+
+3. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
+</center>
+
+4. [CocosCreator & Protobuf](https://github.com/IvesShe/CocosCreator_Protobuf)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreator_Protobuf/raw/main/images/20200827143724.png?raw=true" width="600"/>
+</center>
+
+5. [趣味跳一跳](https://ivesshe.github.io/JumpJump/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/JumpJump/S__38666243.jpg?raw=true" width="200"/>
+</center>
+
+6. [飛刀大作戰](https://ivesshe.github.io/FlyKnife/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633483.jpg?raw=true" width="200"/>
+</center>
+
+7. [幸運大轉盤](https://ivesshe.github.io/Turntable/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
+</center>
+
+8. [趣味套牛](https://ivesshe.github.io/getCow/) 
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868822604.jpg?raw=true" width="200"/>
+</center>
+
+9. [Shader Loading DEMO](https://ivesshe.github.io/shader_Loading/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/shader_loading/S__38666256.jpg?raw=true" width="200"/>
+</center>
+
+10. [爆破點點](https://ivesshe.github.io/BombPixel/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633482.jpg?raw=true" width="200"/>
+</center>
+
+11. [UI_Demo](https://ivesshe.github.io/UI_Demo/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/UI_Demo/S__38723587.jpg?raw=true" width="200"/>
+</center>
+
+12. [Spine、Photoshop+ShoeBox & BMFont 自製字型庫 DEMO](https://github.com/IvesShe/BMFont_Spine)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/S__38658050.jpg?raw=true" width="200"/>
+</center>
+   
+13. [飛機大戰)](https://ivesshe.github.io/aircraftWeb/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868861212.jpg?raw=true" width="200"/>
+</center>
+
+14. [完美方塊](https://ivesshe.github.io/PerfectCube/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633479.jpg?raw=true" width="200"/>
+</center>
+
+15. [搖桿DEMO](https://ivesshe.github.io/JoyStick/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869061695.jpg?raw=true" width="200"/>
+</center>
+
+16. [河內塔](https://ivesshe.github.io/HanoiTower/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868880809.jpg?raw=true" width="500"/>
+</center>
+
+17. [躍動小球](https://ivesshe.github.io/JumpBall/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633485.jpg?raw=true" width="200"/>
+</center>
+
+18. [同色消消樂](https://ivesshe.github.io/EliminateFun/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633481.jpg?raw=true" width="200"/>
+</center>
+
+19. [趣味拼圖](https://ivesshe.github.io/JigsawPuzzle/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633484.jpg?raw=true" width="500"/>
+</center>
+
+------
+
+# **(二) Vue.js**
+
+1. [Vue 電商購物網站](https://github.com/IvesShe/Vue_SuperMall)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_SuperMall/raw/main/images/20210726162714.png?raw=true" width="500"/>
+</center>
+
+2. [Vue 電商後台網站 搭配ElementUI](https://github.com/IvesShe/Vue_Shop_Admin)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Shop_Admin/raw/main/images/20210912205626.png?raw=true" width="500"/>
+</center>
+
+3. [Vue 移動版外賣平台](https://github.com/IvesShe/Vue_Takeouts)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Takeouts/raw/main/images/20211114120701.png?raw=true" width="500"/>
+</center>
+
+4. [Vue 移動版電商網站搭配VantUI](https://github.com/IvesShe/Vue_VantUI_Shop)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_VantUI_Shop/raw/main/images/20211220103731.png?raw=true" width="500"/>
+</center>
+
+5. [Vue 電商數據可視化網站(ECharts)](https://github.com/IvesShe/Vue_ECharts)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_ECharts/raw/main/images/Xnip2022-07-12_19-55-18.jpg?raw=true" width="500"/>
+</center>
+
+6. [Vue 尚品匯電商購物平台](https://github.com/IvesShe/Vue_Shangpinhui)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Shangpinhui/raw/main/images/Xnip2022-07-26_11-15-17.jpg?raw=true" width="500"/>
+</center>
+
+7. [Vue MusicPlayer](https://github.com/IvesShe/Vue_MusicPlayer)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_MusicPlayer/raw/master/images_readme/20200908114347.png?raw=true" width="500"/>
+</center>
+
+8. [Vue Weather](https://github.com/IvesShe/Vue_Weather)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Weather/raw/gh-pages/images/20200907144325.png?raw=true" width="500"/>
+</center>
+
+9. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
+<center class="half">
+    <img src="https://github.com/IvesShe/Vue_Notepad/raw/master/images/20200907132935.png?raw=true" width="500"/>
+</center>
+
+-----
+
+# **(三) React.js**
+
+1. [React 電商後台 搭配AntDesgin](https://github.com/IvesShe/React_Admin)
+<center class="half"></center>
+    <img src="https://github.com/IvesShe/React_Admin/raw/main/images/20220124184303.png?raw=true" width="500"/>
+</center>
+
+2. [React 電商前台 搭配Next.js](https://github.com/IvesShe/React_Next_Shop)
+<center class="half"></center>
+    <img src="https://github.com/IvesShe/React_Next_Shop/raw/main/images/20220323150229.png?raw=true" width="500"/>
+</center>
+
+3. [React 搭配Next.js](https://github.com/IvesShe/React_NextJS)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_NextJS/raw/main/images/image2021-03-1420.11.25.png?raw=true" width="500"/>
+</center>
+
+4. [React Hooks](https://github.com/IvesShe/React_Hooks)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_Hooks/raw/main/images/20210309233449.png?raw=true" width="500"/>
+</center>
+
+5. [React Ant Design](https://github.com/IvesShe/React_AntDesign)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_AntDesign/raw/main/images/20210308143852.png?raw=true" width="500"/>
+</center>
+
+6. [React Redux](https://github.com/IvesShe/React_Redux)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_Redux/raw/main/images/20210308234012.png?raw=true" width="500"/>
+</center>
+
+7. [React react-redux](https://github.com/IvesShe/React_react-redux)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_react-redux/raw/main/images/20210309175125.png?raw=true" width="500"/>
+</center>
+
+8. [React Github Search](https://github.com/IvesShe/React_Github_Search/)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_Github_Search/raw/main/images/20210228125311.png?raw=true" width="500"/>
+</center>
+
+9. [React Router 和 SPA](https://github.com/IvesShe/React_Router/)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_Router/raw/main/images/20210307160815.png?raw=true" width="500"/>
+</center>
+
+10. [React TodoList](https://github.com/IvesShe/React_TodoList)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210227110434.png?raw=true" width="500"/>
+</center>
+
+11. [React Github Search PubSub 使用消息訂閱、補充Fetch、async、await](https://github.com/IvesShe/React_Github_Search_PubSub/)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_Github_Search_PubSub/raw/main/images/20210228150125.png?raw=true" width="500"/>
+</center>
+
+12. [React Proxy 配置代理 搭配Node.js服務器](https://github.com/IvesShe/React_Proxy)
+<center class="half">
+    <img src="https://github.com/IvesShe/React_Proxy/raw/main/images/20210227151945.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(四) HTML、CSS**
+
+1. [金魚網頁筆記](https://github.com/IvesShe/WebStart_GoldFish)
+<center class="half">
+    <img src="https://github.com/IvesShe/WebStart_GoldFish/raw/main/images/Xnip2022-07-09_17-33-40.jpg?raw=true" width="500"/>
+</center>
+
+2. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Web_PinYouGo/blob/main/images/image2021-03-2418.07.11.png?raw=true" width="500"/>
+</center>
+
+3. [HTML、CSS 學成在線 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_LearnOnline)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Web_LearnOnline/raw/main/images/image2021-03-2220.47.27.png?raw=true" width="500"/>
+</center>
+
+4. [HTML、CSS Mobile 蘇寧易購 網頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Suning)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Suning/raw/main/images/image2021-03-2515.06.38.png?raw=true" width="500"/>
+</center>
+
+5. [HTML、CSS 移動端 京東 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_JD)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_JD/raw/main/images/20210407120402.png?raw=true" width="500"/>
+</center>
+
+6. [HTML、CSS 移動端 黑馬面面 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm/raw/main/images/20210407205803.png?raw=true" width="500"/>
+</center>
+
+7. [HTML、CSS、Bootstrap 響應式 阿里百秀 首頁製作](https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu/raw/main/images/20210408210022.png?raw=true" width="500"/>
+</center>
+
+8. [金魚切版筆記](https://github.com/IvesShe/HTML_CSS_GoldFishLayout)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_GoldFishLayout/raw/main/images/20211207213142.png?raw=true" width="500"/>
+</center>
+
+9. [Bootstrap5筆記](https://github.com/IvesShe/Bootstrap5_GoldFish)
+<center class="half">
+    <img src="https://github.com/IvesShe/Bootstrap5_GoldFish/raw/main/images/Xnip2022-07-04_20-21-07.jpg?raw=true" width="500"/>
+</center>
+
+10. [PWA筆記](https://github.com/IvesShe/PWA_Basic)
+<center class="half">
+    <img src="https://github.com/IvesShe/PWA_Basic/raw/main/images/20230225141539.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(五) 棋牌遊戲規則筆記**
+
+棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
+
+1. [Poker Note](https://github.com/IvesShe/Poker_Note)
+<center class="half">
+    <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(六) 全端(棧)項目**
 
 1. [Golang 搭配Cocos Creator2.4.3 製作簡易SlotGame(拉霸機)](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
 <center class="half">
@@ -39,7 +317,7 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Nodejs_BackManagement/raw/main/images/20220311144305.png?raw=true" width="500"/>
 </center>
 
-# **(二) Golang**
+# **(七) Golang**
 
 1. [Golang LeafServer Study](https://github.com/IvesShe/Golang_LeafServer_Study)
 <center class="half">
@@ -141,7 +419,7 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Golang_Stack_Calculator/raw/main/images/20210131162835.png?raw=true" width="500"/>
 </center>
 
-# **(三) Node.js**
+# **(八) Node.js**
 1. [GCP搭配Nginx、Nodejs、Docker，使用GoDaddy申請網域](https://github.com/IvesShe/GCP_Nodejs_Nginx)
 <center class="half">
     <img src="https://github.com/IvesShe/GCP_Nodejs_Nginx/raw/main/images/20210523104913.png?raw=true" width="500"/>
@@ -179,7 +457,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(四) PHP**
+# **(九) PHP**
 
 1. [PHP Laravel Study 搭配MYSQL](https://github.com/IvesShe/PHP_Laravel_Study)
 <center class="half">
@@ -218,7 +496,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(五) JAVA**
+# **(十) JAVA**
 
 1. [JAVA Maven](https://github.com/IvesShe/Java_Maven)
 <center class="half">
@@ -288,21 +566,21 @@ ivesshe@gmail.com
 構建中
 
 ------
-# **(六) Android**
+# **(十一) Android**
 1. [Android Studio Note](https://github.com/IvesShe/Java_Android)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Android/raw/main/images/20210724111312.png?raw=true" width="500"/>
 </center>
 
 ------
-# **(七) IOS**
+# **(十二) IOS**
 1. [IOS Note](https://github.com/IvesShe/IOS_Note)
 <center class="half">
     <img src="https://github.com/IvesShe/IOS_Note/raw/main/images/Xnip2022-04-03_14-45-30.jpg?raw=true" width="500"/>
 </center>
 
 ------
-# **(八) React Native**
+# **(十三) React Native**
 
 1. [React Native Note](https://github.com/IvesShe/ReactNative_Note)
 <center class="half">
@@ -335,119 +613,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(九) React.js**
-
-1. [React 電商後台 搭配AntDesgin](https://github.com/IvesShe/React_Admin)
-<center class="half"></center>
-    <img src="https://github.com/IvesShe/React_Admin/raw/main/images/20220124184303.png?raw=true" width="500"/>
-</center>
-
-2. [React 電商前台 搭配Next.js](https://github.com/IvesShe/React_Next_Shop)
-<center class="half"></center>
-    <img src="https://github.com/IvesShe/React_Next_Shop/raw/main/images/20220323150229.png?raw=true" width="500"/>
-</center>
-
-3. [React 搭配Next.js](https://github.com/IvesShe/React_NextJS)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_NextJS/raw/main/images/image2021-03-1420.11.25.png?raw=true" width="500"/>
-</center>
-
-4. [React Hooks](https://github.com/IvesShe/React_Hooks)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_Hooks/raw/main/images/20210309233449.png?raw=true" width="500"/>
-</center>
-
-5. [React Ant Design](https://github.com/IvesShe/React_AntDesign)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_AntDesign/raw/main/images/20210308143852.png?raw=true" width="500"/>
-</center>
-
-6. [React Redux](https://github.com/IvesShe/React_Redux)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_Redux/raw/main/images/20210308234012.png?raw=true" width="500"/>
-</center>
-
-7. [React react-redux](https://github.com/IvesShe/React_react-redux)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_react-redux/raw/main/images/20210309175125.png?raw=true" width="500"/>
-</center>
-
-8. [React Github Search](https://github.com/IvesShe/React_Github_Search/)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_Github_Search/raw/main/images/20210228125311.png?raw=true" width="500"/>
-</center>
-
-9. [React Router 和 SPA](https://github.com/IvesShe/React_Router/)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_Router/raw/main/images/20210307160815.png?raw=true" width="500"/>
-</center>
-
-10. [React TodoList](https://github.com/IvesShe/React_TodoList)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_TodoList/raw/main/images/20210227110434.png?raw=true" width="500"/>
-</center>
-
-11. [React Github Search PubSub 使用消息訂閱、補充Fetch、async、await](https://github.com/IvesShe/React_Github_Search_PubSub/)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_Github_Search_PubSub/raw/main/images/20210228150125.png?raw=true" width="500"/>
-</center>
-
-12. [React Proxy 配置代理 搭配Node.js服務器](https://github.com/IvesShe/React_Proxy)
-<center class="half">
-    <img src="https://github.com/IvesShe/React_Proxy/raw/main/images/20210227151945.png?raw=true" width="500"/>
-</center>
-
-------
-
-# **(十) Vue.js**
-
-1. [Vue 電商購物網站](https://github.com/IvesShe/Vue_SuperMall)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_SuperMall/raw/main/images/20210726162714.png?raw=true" width="500"/>
-</center>
-
-2. [Vue 電商後台網站 搭配ElementUI](https://github.com/IvesShe/Vue_Shop_Admin)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_Shop_Admin/raw/main/images/20210912205626.png?raw=true" width="500"/>
-</center>
-
-3. [Vue 移動版外賣平台](https://github.com/IvesShe/Vue_Takeouts)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_Takeouts/raw/main/images/20211114120701.png?raw=true" width="500"/>
-</center>
-
-4. [Vue 移動版電商網站搭配VantUI](https://github.com/IvesShe/Vue_VantUI_Shop)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_VantUI_Shop/raw/main/images/20211220103731.png?raw=true" width="500"/>
-</center>
-
-5. [Vue 電商數據可視化網站(ECharts)](https://github.com/IvesShe/Vue_ECharts)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_ECharts/raw/main/images/Xnip2022-07-12_19-55-18.jpg?raw=true" width="500"/>
-</center>
-
-6. [Vue 尚品匯電商購物平台](https://github.com/IvesShe/Vue_Shangpinhui)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_Shangpinhui/raw/main/images/Xnip2022-07-26_11-15-17.jpg?raw=true" width="500"/>
-</center>
-
-7. [Vue MusicPlayer](https://github.com/IvesShe/Vue_MusicPlayer)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_MusicPlayer/raw/master/images_readme/20200908114347.png?raw=true" width="500"/>
-</center>
-
-8. [Vue Weather](https://github.com/IvesShe/Vue_Weather)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_Weather/raw/gh-pages/images/20200907144325.png?raw=true" width="500"/>
-</center>
-
-9. [Vue Notepad](https://github.com/IvesShe/Vue_Notepad)
-<center class="half">
-    <img src="https://github.com/IvesShe/Vue_Notepad/raw/master/images/20200907132935.png?raw=true" width="500"/>
-</center>
-
-
-# **(十一) Angular.js**
+# **(十四) Angular.js**
 
 1. [Angular Note](https://github.com/IvesShe/Angular_Note.git)
 <center class="half">
@@ -457,73 +623,9 @@ ivesshe@gmail.com
 2. [Angular 財經網站]()
 構建中
 
-------
+-----
 
-# **(十二) HTML、CSS**
-
-1. [金魚網頁筆記](https://github.com/IvesShe/WebStart_GoldFish)
-<center class="half">
-    <img src="https://github.com/IvesShe/WebStart_GoldFish/raw/main/images/Xnip2022-07-09_17-33-40.jpg?raw=true" width="500"/>
-</center>
-
-2. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Web_PinYouGo/blob/main/images/image2021-03-2418.07.11.png?raw=true" width="500"/>
-</center>
-
-3. [HTML、CSS 學成在線 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_LearnOnline)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Web_LearnOnline/raw/main/images/image2021-03-2220.47.27.png?raw=true" width="500"/>
-</center>
-
-4. [HTML、CSS Mobile 蘇寧易購 網頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Suning)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Suning/raw/main/images/image2021-03-2515.06.38.png?raw=true" width="500"/>
-</center>
-
-5. [HTML、CSS 移動端 京東 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_JD)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_JD/raw/main/images/20210407120402.png?raw=true" width="500"/>
-</center>
-
-6. [HTML、CSS 移動端 黑馬面面 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm/raw/main/images/20210407205803.png?raw=true" width="500"/>
-</center>
-
-7. [HTML、CSS、Bootstrap 響應式 阿里百秀 首頁製作](https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu/raw/main/images/20210408210022.png?raw=true" width="500"/>
-</center>
-
-8. [金魚切版筆記](https://github.com/IvesShe/HTML_CSS_GoldFishLayout)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_GoldFishLayout/raw/main/images/20211207213142.png?raw=true" width="500"/>
-</center>
-
-9. [Bootstrap5筆記](https://github.com/IvesShe/Bootstrap5_GoldFish)
-<center class="half">
-    <img src="https://github.com/IvesShe/Bootstrap5_GoldFish/raw/main/images/Xnip2022-07-04_20-21-07.jpg?raw=true" width="500"/>
-</center>
-
-10. [PWA筆記](https://github.com/IvesShe/PWA_Basic)
-<center class="half">
-    <img src="https://github.com/IvesShe/PWA_Basic/raw/main/images/20230225141539.png?raw=true" width="500"/>
-</center>
-
-------
-# **(十三) 棋牌遊戲規則筆記**
-
-棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
-
-1. [Poker Note](https://github.com/IvesShe/Poker_Note)
-<center class="half">
-    <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
-</center>
-
-------
-
-# **(十四) Database 數據庫**
+# **(十五) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -559,7 +661,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(十五) 自主學習區**
+# **(十六) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
@@ -621,93 +723,6 @@ ivesshe@gmail.com
 
 ------
 
-# **(十六) CocosCreator**
 
-1. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
-</center>
-
-2. [CocosCreator & Protobuf](https://github.com/IvesShe/CocosCreator_Protobuf)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreator_Protobuf/raw/main/images/20200827143724.png?raw=true" width="600"/>
-</center>
-
-3. [趣味跳一跳](https://ivesshe.github.io/JumpJump/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/JumpJump/S__38666243.jpg?raw=true" width="200"/>
-</center>
-
-4. [飛刀大作戰](https://ivesshe.github.io/FlyKnife/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633483.jpg?raw=true" width="200"/>
-</center>
-
-5. [幸運大轉盤](https://ivesshe.github.io/Turntable/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
-</center>
-
-6. [趣味套牛](https://ivesshe.github.io/getCow/) 
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868822604.jpg?raw=true" width="200"/>
-</center>
-
-7. [Shader Loading DEMO](https://ivesshe.github.io/shader_Loading/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/shader_loading/S__38666256.jpg?raw=true" width="200"/>
-</center>
-
-8. [爆破點點](https://ivesshe.github.io/BombPixel/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633482.jpg?raw=true" width="200"/>
-</center>
-
-9. [UI_Demo](https://ivesshe.github.io/UI_Demo/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/UI_Demo/S__38723587.jpg?raw=true" width="200"/>
-</center>
-
-10. [Spine、Photoshop+ShoeBox & BMFont 自製字型庫 DEMO](https://github.com/IvesShe/BMFont_Spine)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/S__38658050.jpg?raw=true" width="200"/>
-</center>
-   
-11. [飛機大戰)](https://ivesshe.github.io/aircraftWeb/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868861212.jpg?raw=true" width="200"/>
-</center>
-
-12. [完美方塊](https://ivesshe.github.io/PerfectCube/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633479.jpg?raw=true" width="200"/>
-</center>
-
-13. [搖桿DEMO](https://ivesshe.github.io/JoyStick/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869061695.jpg?raw=true" width="200"/>
-</center>
-
-14. [河內塔](https://ivesshe.github.io/HanoiTower/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868880809.jpg?raw=true" width="500"/>
-</center>
-
-15. [躍動小球](https://ivesshe.github.io/JumpBall/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633485.jpg?raw=true" width="200"/>
-</center>
-
-16. [同色消消樂](https://ivesshe.github.io/EliminateFun/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633481.jpg?raw=true" width="200"/>
-</center>
-
-17. [趣味拼圖](https://ivesshe.github.io/JigsawPuzzle/)
-<center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633484.jpg?raw=true" width="500"/>
-</center>
-
-------
 
 
