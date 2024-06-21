@@ -32,12 +32,12 @@ ivesshe@gmail.com
 
 1. [趣味翻牌(Cocos Creator 3.8.0)](https://cocos-poker-turn-web-mffx.vercel.app/)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/20240621230219.jpg?raw=true" width="600"/>
 </center>
 
 2. [接雞蛋(Cocos Creator 3.8.0)](https://cocos-chicken-web-154k.vercel.app/)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/20240621230241.jpg?raw=true" width="600"/>
 </center>
 
 3. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
