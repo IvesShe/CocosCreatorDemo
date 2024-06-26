@@ -39,87 +39,92 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/20240621230241.jpg?raw=true" width="600"/>
 </center>
 
-3. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
+3. [Skeletal Animation(Cocos Creator 3.0.0)](https://cocos-skeletal-web.vercel.app/)
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/20240626201134.jpg?raw=true" width="600"/>
+</center>
+
+4. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
 </center>
 
-4. [CocosCreator & Protobuf](https://github.com/IvesShe/CocosCreator_Protobuf)
+5. [CocosCreator & Protobuf](https://github.com/IvesShe/CocosCreator_Protobuf)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreator_Protobuf/raw/main/images/20200827143724.png?raw=true" width="600"/>
 </center>
 
-5. [趣味跳一跳](https://ivesshe.github.io/JumpJump/)
+6. [趣味跳一跳](https://ivesshe.github.io/JumpJump/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/JumpJump/S__38666243.jpg?raw=true" width="200"/>
 </center>
 
-6. [飛刀大作戰](https://ivesshe.github.io/FlyKnife/)
+7. [飛刀大作戰](https://ivesshe.github.io/FlyKnife/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633483.jpg?raw=true" width="200"/>
 </center>
 
-7. [幸運大轉盤](https://ivesshe.github.io/Turntable/)
+8. [幸運大轉盤](https://ivesshe.github.io/Turntable/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869097479.jpg?raw=true" width="200"/>
 </center>
 
-8. [趣味套牛](https://ivesshe.github.io/getCow/) 
+9. [趣味套牛](https://ivesshe.github.io/getCow/) 
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868822604.jpg?raw=true" width="200"/>
 </center>
 
-9. [Shader Loading DEMO](https://ivesshe.github.io/shader_Loading/)
+10. [Shader Loading DEMO](https://ivesshe.github.io/shader_Loading/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/shader_loading/S__38666256.jpg?raw=true" width="200"/>
 </center>
 
-10. [爆破點點](https://ivesshe.github.io/BombPixel/)
+11. [爆破點點](https://ivesshe.github.io/BombPixel/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633482.jpg?raw=true" width="200"/>
 </center>
 
-11. [UI_Demo](https://ivesshe.github.io/UI_Demo/)
+12. [UI_Demo](https://ivesshe.github.io/UI_Demo/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/UI_Demo/S__38723587.jpg?raw=true" width="200"/>
 </center>
 
-12. [Spine、Photoshop+ShoeBox & BMFont 自製字型庫 DEMO](https://github.com/IvesShe/BMFont_Spine)
+13. [Spine、Photoshop+ShoeBox & BMFont 自製字型庫 DEMO](https://github.com/IvesShe/BMFont_Spine)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/S__38658050.jpg?raw=true" width="200"/>
 </center>
    
-13. [飛機大戰)](https://ivesshe.github.io/aircraftWeb/)
+14. [飛機大戰)](https://ivesshe.github.io/aircraftWeb/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868861212.jpg?raw=true" width="200"/>
 </center>
 
-14. [完美方塊](https://ivesshe.github.io/PerfectCube/)
+15. [完美方塊](https://ivesshe.github.io/PerfectCube/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633479.jpg?raw=true" width="200"/>
 </center>
 
-15. [搖桿DEMO](https://ivesshe.github.io/JoyStick/)
+16. [搖桿DEMO](https://ivesshe.github.io/JoyStick/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587869061695.jpg?raw=true" width="200"/>
 </center>
 
-16. [河內塔](https://ivesshe.github.io/HanoiTower/)
+17. [河內塔](https://ivesshe.github.io/HanoiTower/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/1587868880809.jpg?raw=true" width="500"/>
 </center>
 
-17. [躍動小球](https://ivesshe.github.io/JumpBall/)
+18. [躍動小球](https://ivesshe.github.io/JumpBall/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633485.jpg?raw=true" width="200"/>
 </center>
 
-18. [同色消消樂](https://ivesshe.github.io/EliminateFun/)
+19. [同色消消樂](https://ivesshe.github.io/EliminateFun/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633481.jpg?raw=true" width="200"/>
 </center>
 
-19. [趣味拼圖](https://ivesshe.github.io/JigsawPuzzle/)
+20. [趣味拼圖](https://ivesshe.github.io/JigsawPuzzle/)
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/S__38633484.jpg?raw=true" width="500"/>
 </center>
