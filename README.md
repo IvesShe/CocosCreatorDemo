@@ -41,7 +41,7 @@ ivesshe@gmail.com
 
 3. [Skeletal Animation(Cocos Creator 3.0.0)](https://cocos-skeletal-web.vercel.app/)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/20240626201134.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/20240626201131.jpg?raw=true" width="600"/>
 </center>
 
 4. [鬥地主(Cocos Creator + Node.js + MySQL)](https://github.com/IvesShe/FightLandlord)
