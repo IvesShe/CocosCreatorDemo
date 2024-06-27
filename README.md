@@ -3,11 +3,11 @@
 **項目大綱**
 ```
 (一) CocosCreator
-(二) Vue.js
-(三) React.js
-(四) HTML、CSS
-(五) 棋牌遊戲規則筆記
-(六) 全端(棧)項目
+(二) 全端(棧)項目
+(三) Vue.js
+(四) React.js
+(五) HTML、CSS
+(六) 棋牌遊戲規則筆記
 (七) Golang
 (八) Node.js
 (九) PHP
