@@ -146,7 +146,21 @@ ivesshe@gmail.com
 
 ------
 
-# **(二) Vue.js**
+# **(二) 全端(棧)項目**
+
+1. [Golang 搭配Cocos Creator2.4.3 製作簡易SlotGame(拉霸機)](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
+<center class="half">
+    <img src="https://github.com/IvesShe/Golang_CocosCreator_3Slot/blob/main/images/20201219103943.png?raw=true" width="500"/>
+</center>
+
+2. [NodeJs後台管理全端項目 前端搭配jQuery](https://github.com/IvesShe/Nodejs_BackManagement)
+<center class="half">
+    <img src="https://github.com/IvesShe/Nodejs_BackManagement/raw/main/images/20220311144305.png?raw=true" width="500"/>
+</center>
+
+------
+
+# **(三) Vue.js**
 
 1. [Vue 電商購物網站](https://github.com/IvesShe/Vue_SuperMall)
 <center class="half">
@@ -195,7 +209,7 @@ ivesshe@gmail.com
 
 -----
 
-# **(三) React.js**
+# **(四) React.js**
 
 1. [React 電商後台 搭配AntDesgin](https://github.com/IvesShe/React_Admin)
 <center class="half"></center>
@@ -259,7 +273,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(四) HTML、CSS**
+# **(五) HTML、CSS**
 
 1. [金魚網頁筆記](https://github.com/IvesShe/WebStart_GoldFish)
 <center class="half">
@@ -313,7 +327,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(五) 棋牌遊戲規則筆記**
+# **(六) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -322,19 +336,8 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
 </center>
 
+
 ------
-
-# **(六) 全端(棧)項目**
-
-1. [Golang 搭配Cocos Creator2.4.3 製作簡易SlotGame(拉霸機)](https://github.com/IvesShe/Golang_CocosCreator_3Slot)
-<center class="half">
-    <img src="https://github.com/IvesShe/Golang_CocosCreator_3Slot/blob/main/images/20201219103943.png?raw=true" width="500"/>
-</center>
-
-2. [NodeJs後台管理全端項目 前端搭配jQuery](https://github.com/IvesShe/Nodejs_BackManagement)
-<center class="half">
-    <img src="https://github.com/IvesShe/Nodejs_BackManagement/raw/main/images/20220311144305.png?raw=true" width="500"/>
-</center>
 
 # **(七) Golang**
 
