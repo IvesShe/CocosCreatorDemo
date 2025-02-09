@@ -575,17 +575,18 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Java_ElasticSearch/raw/main/images/20210714205920.png?raw=true" width="500"/>
 </center>
 
-12. [Jenkins]()
+12. [Java Swing jdbc搭配MySQL 建立簡易商城系統](https://github.com/IvesShe/JavaSwingMySQLShoppingMall/tree/main)
+<center class="half">
+    <img src="https://github.com/IvesShe/JavaSwingMySQLShoppingMall/blob/main/images/20250209120445.jpg?raw=true" width="500"/>
+</center>
+
+13. [Jenkins]()
 構建中
 
-13. [CI/CD]()
+14. [CI/CD]()
 構建中
 
-14. [JAVA Sharding-JDBC]()
-構建中
 
-15. [Design Pattern]()
-構建中
 
 ------
 # **(十一) Android**
