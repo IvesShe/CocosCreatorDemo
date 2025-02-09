@@ -336,10 +336,78 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
 </center>
 
-
 ------
 
-# **(七) Golang**
+# **(七) JAVA**
+
+1. [JAVA Maven](https://github.com/IvesShe/Java_Maven)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_Maven/raw/main/images/20210530191045.png?raw=true" width="500"/>
+</center>
+
+2. [JAVA MyBatis](https://github.com/IvesShe/Java_MyBatis)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_MyBatis/raw/main/images/20210627204547.png?raw=true" width="500"/>
+</center>
+
+3. [JAVA Spring](https://github.com/IvesShe/Java_Spring)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_Spring/raw/main/images/20210703110803.png?raw=true" width="500"/>
+</center>
+
+4. [JAVA SpringMVC](https://github.com/IvesShe/Java_SpringMVC)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_SpringMVC/raw/main/images/20210704120340.png?raw=true" width="500"/>
+</center>
+
+5. [JAVA SpringBoot](https://github.com/IvesShe/Java_SpringBoot)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_SpringBoot/raw/main/images/20210704212828.png?raw=true" width="500"/>
+</center>
+
+6. [JAVA SpringCloud](https://github.com/IvesShe/Java_SpringCloud)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_SpringCloud/raw/main/images/20210705195443.png?raw=true" width="500"/>
+</center>
+
+7. [JAVA ZooKeeper](https://github.com/IvesShe/Java_ZooKeeper)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_ZooKeeper/raw/main/images/20210707211625.png?raw=true" width="500"/>
+</center>
+
+8. [JAVA Dubbo](https://github.com/IvesShe/Java_Dubbo)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_Dubbo/raw/main/images/20210708095903.png?raw=true" width="500"/>
+</center>
+
+9. [Kafka](https://github.com/IvesShe/Java_Kafka)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_Kafka/raw/main/images/20210709115241.png?raw=true" width="500"/>
+</center>
+
+10. [RabbitMQ](https://github.com/IvesShe/Java_RabbitMQ)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_RabbitMQ/raw/main/images/20210711160221.png?raw=true" width="500"/>
+</center>
+
+11. [ElasticSearch](https://github.com/IvesShe/Java_ElasticSearch)
+<center class="half">
+    <img src="https://github.com/IvesShe/Java_ElasticSearch/raw/main/images/20210714205920.png?raw=true" width="500"/>
+</center>
+
+12. [Java Swing jdbc搭配MySQL 建立簡易商城系統](https://github.com/IvesShe/JavaSwingMySQLShoppingMall/tree/main)
+<center class="half">
+    <img src="https://github.com/IvesShe/JavaSwingMySQLShoppingMall/blob/main/images/20250209120445.jpg?raw=true" width="500"/>
+</center>
+
+13. [Jenkins]()
+構建中
+
+14. [CI/CD]()
+構建中
+------
+
+# **(八) Golang**
 
 1. [Golang LeafServer Study](https://github.com/IvesShe/Golang_LeafServer_Study)
 <center class="half">
@@ -441,7 +509,7 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Golang_Stack_Calculator/raw/main/images/20210131162835.png?raw=true" width="500"/>
 </center>
 
-# **(八) Node.js**
+# **(九) Node.js**
 1. [GCP搭配Nginx、Nodejs、Docker，使用GoDaddy申請網域](https://github.com/IvesShe/GCP_Nodejs_Nginx)
 <center class="half">
     <img src="https://github.com/IvesShe/GCP_Nodejs_Nginx/raw/main/images/20210523104913.png?raw=true" width="500"/>
@@ -479,7 +547,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(九) PHP**
+# **(十) PHP**
 
 1. [PHP Laravel Study 搭配MYSQL](https://github.com/IvesShe/PHP_Laravel_Study)
 <center class="half">
@@ -515,77 +583,6 @@ ivesshe@gmail.com
 <center class="half">
     <img src="https://github.com/IvesShe/Crontab/blob/main/images/20210209214647.png?raw=true" width="500"/>
 </center>
-
-------
-
-# **(十) JAVA**
-
-1. [JAVA Maven](https://github.com/IvesShe/Java_Maven)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_Maven/raw/main/images/20210530191045.png?raw=true" width="500"/>
-</center>
-
-2. [JAVA MyBatis](https://github.com/IvesShe/Java_MyBatis)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_MyBatis/raw/main/images/20210627204547.png?raw=true" width="500"/>
-</center>
-
-3. [JAVA Spring](https://github.com/IvesShe/Java_Spring)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_Spring/raw/main/images/20210703110803.png?raw=true" width="500"/>
-</center>
-
-4. [JAVA SpringMVC](https://github.com/IvesShe/Java_SpringMVC)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_SpringMVC/raw/main/images/20210704120340.png?raw=true" width="500"/>
-</center>
-
-5. [JAVA SpringBoot](https://github.com/IvesShe/Java_SpringBoot)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_SpringBoot/raw/main/images/20210704212828.png?raw=true" width="500"/>
-</center>
-
-6. [JAVA SpringCloud](https://github.com/IvesShe/Java_SpringCloud)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_SpringCloud/raw/main/images/20210705195443.png?raw=true" width="500"/>
-</center>
-
-7. [JAVA ZooKeeper](https://github.com/IvesShe/Java_ZooKeeper)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_ZooKeeper/raw/main/images/20210707211625.png?raw=true" width="500"/>
-</center>
-
-8. [JAVA Dubbo](https://github.com/IvesShe/Java_Dubbo)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_Dubbo/raw/main/images/20210708095903.png?raw=true" width="500"/>
-</center>
-
-9. [Kafka](https://github.com/IvesShe/Java_Kafka)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_Kafka/raw/main/images/20210709115241.png?raw=true" width="500"/>
-</center>
-
-10. [RabbitMQ](https://github.com/IvesShe/Java_RabbitMQ)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_RabbitMQ/raw/main/images/20210711160221.png?raw=true" width="500"/>
-</center>
-
-11. [ElasticSearch](https://github.com/IvesShe/Java_ElasticSearch)
-<center class="half">
-    <img src="https://github.com/IvesShe/Java_ElasticSearch/raw/main/images/20210714205920.png?raw=true" width="500"/>
-</center>
-
-12. [Java Swing jdbc搭配MySQL 建立簡易商城系統](https://github.com/IvesShe/JavaSwingMySQLShoppingMall/tree/main)
-<center class="half">
-    <img src="https://github.com/IvesShe/JavaSwingMySQLShoppingMall/blob/main/images/20250209120445.jpg?raw=true" width="500"/>
-</center>
-
-13. [Jenkins]()
-構建中
-
-14. [CI/CD]()
-構建中
-
 
 
 ------
