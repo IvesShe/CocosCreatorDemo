@@ -273,72 +273,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(五) HTML、CSS**
-
-1. [金魚網頁筆記](https://github.com/IvesShe/WebStart_GoldFish)
-<center class="half">
-    <img src="https://github.com/IvesShe/WebStart_GoldFish/raw/main/images/Xnip2022-07-09_17-33-40.jpg?raw=true" width="500"/>
-</center>
-
-2. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Web_PinYouGo/blob/main/images/image2021-03-2418.07.11.png?raw=true" width="500"/>
-</center>
-
-3. [HTML、CSS 學成在線 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_LearnOnline)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Web_LearnOnline/raw/main/images/image2021-03-2220.47.27.png?raw=true" width="500"/>
-</center>
-
-4. [HTML、CSS Mobile 蘇寧易購 網頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Suning)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Suning/raw/main/images/image2021-03-2515.06.38.png?raw=true" width="500"/>
-</center>
-
-5. [HTML、CSS 移動端 京東 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_JD)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_JD/raw/main/images/20210407120402.png?raw=true" width="500"/>
-</center>
-
-6. [HTML、CSS 移動端 黑馬面面 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm/raw/main/images/20210407205803.png?raw=true" width="500"/>
-</center>
-
-7. [HTML、CSS、Bootstrap 響應式 阿里百秀 首頁製作](https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu/raw/main/images/20210408210022.png?raw=true" width="500"/>
-</center>
-
-8. [金魚切版筆記](https://github.com/IvesShe/HTML_CSS_GoldFishLayout)
-<center class="half">
-    <img src="https://github.com/IvesShe/HTML_CSS_GoldFishLayout/raw/main/images/20211207213142.png?raw=true" width="500"/>
-</center>
-
-9. [Bootstrap5筆記](https://github.com/IvesShe/Bootstrap5_GoldFish)
-<center class="half">
-    <img src="https://github.com/IvesShe/Bootstrap5_GoldFish/raw/main/images/Xnip2022-07-04_20-21-07.jpg?raw=true" width="500"/>
-</center>
-
-10. [PWA筆記](https://github.com/IvesShe/PWA_Basic)
-<center class="half">
-    <img src="https://github.com/IvesShe/PWA_Basic/raw/main/images/20230225141539.png?raw=true" width="500"/>
-</center>
-
-------
-
-# **(六) 棋牌遊戲規則筆記**
-
-棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
-
-1. [Poker Note](https://github.com/IvesShe/Poker_Note)
-<center class="half">
-    <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
-</center>
-
-------
-
-# **(七) JAVA**
+# **(五) JAVA**
 
 1. [Java Swing jdbc搭配MySQL 建立簡易商城系統](https://github.com/IvesShe/JavaSwingMySQLShoppingMall/tree/main)
 <center class="half">
@@ -408,6 +343,71 @@ ivesshe@gmail.com
 
 15. [CI/CD]()
 構建中
+
+------
+
+# **(六) HTML、CSS**
+
+1. [金魚網頁筆記](https://github.com/IvesShe/WebStart_GoldFish)
+<center class="half">
+    <img src="https://github.com/IvesShe/WebStart_GoldFish/raw/main/images/Xnip2022-07-09_17-33-40.jpg?raw=true" width="500"/>
+</center>
+
+2. [HTML CSS 品優購 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_PinYouGo)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Web_PinYouGo/blob/main/images/image2021-03-2418.07.11.png?raw=true" width="500"/>
+</center>
+
+3. [HTML、CSS 學成在線 網頁製作](https://github.com/IvesShe/HTML_CSS_Web_LearnOnline)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Web_LearnOnline/raw/main/images/image2021-03-2220.47.27.png?raw=true" width="500"/>
+</center>
+
+4. [HTML、CSS Mobile 蘇寧易購 網頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Suning)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Suning/raw/main/images/image2021-03-2515.06.38.png?raw=true" width="500"/>
+</center>
+
+5. [HTML、CSS 移動端 京東 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_JD)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_JD/raw/main/images/20210407120402.png?raw=true" width="500"/>
+</center>
+
+6. [HTML、CSS 移動端 黑馬面面 首頁製作](https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Mobile_Heimamm/raw/main/images/20210407205803.png?raw=true" width="500"/>
+</center>
+
+7. [HTML、CSS、Bootstrap 響應式 阿里百秀 首頁製作](https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_Bootstrap_Alibaixiu/raw/main/images/20210408210022.png?raw=true" width="500"/>
+</center>
+
+8. [金魚切版筆記](https://github.com/IvesShe/HTML_CSS_GoldFishLayout)
+<center class="half">
+    <img src="https://github.com/IvesShe/HTML_CSS_GoldFishLayout/raw/main/images/20211207213142.png?raw=true" width="500"/>
+</center>
+
+9. [Bootstrap5筆記](https://github.com/IvesShe/Bootstrap5_GoldFish)
+<center class="half">
+    <img src="https://github.com/IvesShe/Bootstrap5_GoldFish/raw/main/images/Xnip2022-07-04_20-21-07.jpg?raw=true" width="500"/>
+</center>
+
+10. [PWA筆記](https://github.com/IvesShe/PWA_Basic)
+<center class="half">
+    <img src="https://github.com/IvesShe/PWA_Basic/raw/main/images/20230225141539.png?raw=true" width="500"/>
+</center>
+
+------
+# **(七) 棋牌遊戲規則筆記**
+
+棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
+
+1. [Poker Note](https://github.com/IvesShe/Poker_Note)
+<center class="half">
+    <img src="https://github.com/IvesShe/Poker_Note/blob/master/images/20200919111410.png?raw=true" width="500"/>
+</center>
+
 ------
 
 # **(八) Golang**
