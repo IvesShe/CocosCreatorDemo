@@ -6,12 +6,12 @@
 (二) 全端(棧)項目
 (三) Vue.js
 (四) React.js
-(五) HTML、CSS
-(六) 棋牌遊戲規則筆記
-(七) Golang
-(八) Node.js
-(九) PHP
-(十) Java
+(五) Java
+(六) HTML、CSS
+(七) 棋牌遊戲規則筆記
+(八) Golang
+(九) Node.js
+(十) PHP
 (十一) Android
 (十二) IOS
 (十三) React Native
