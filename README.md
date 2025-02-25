@@ -275,75 +275,80 @@ ivesshe@gmail.com
 
 # **(五) JAVA**
 
-1. [Java Swing jdbc搭配MySQL 建立簡易商城系統](https://github.com/IvesShe/JavaSwingMySQLShoppingMall/tree/main)
+1. [Java Swing jdbc搭配MySQL 建立簡易商城系統(4張表)，使用Maven作依賴管理](https://github.com/IvesShe/JavaMavenSwingMySQLShoppingMallEmployee)
+<center class="half">
+    <img src="https://github.com/IvesShe/JavaMavenSwingMySQLShoppingMallEmployee/raw/main/images/20250224100256.jpg?raw=true" width="500"/>
+</center>
+
+2. [Java Swing jdbc搭配MySQL 建立簡易商城系統(2張表)](https://github.com/IvesShe/JavaSwingMySQLShoppingMall/tree/main)
 <center class="half">
     <img src="https://github.com/IvesShe/JavaSwingMySQLShoppingMall/blob/main/images/20250209120445.jpg?raw=true" width="500"/>
 </center>
 
-2. [Java Swing 搭配IO Stream 建立簡易商城系統](https://github.com/IvesShe/JavaSwingIOStringShoppingMall)
+3. [Java Swing 搭配IO Stream 建立簡易商城系統](https://github.com/IvesShe/JavaSwingIOStringShoppingMall)
 <center class="half">
     <img src="https://github.com/IvesShe/JavaSwingIOStringShoppingMall/blob/main/images/Xnip2025-02-10_10-51-51.jpg?raw=true" width="500"/>
 </center>
 
-3. [JAVA Maven](https://github.com/IvesShe/Java_Maven)
+4. [JAVA Maven](https://github.com/IvesShe/Java_Maven)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Maven/raw/main/images/20210530191045.png?raw=true" width="500"/>
 </center>
 
-4. [JAVA MyBatis](https://github.com/IvesShe/Java_MyBatis)
+5. [JAVA MyBatis](https://github.com/IvesShe/Java_MyBatis)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_MyBatis/raw/main/images/20210627204547.png?raw=true" width="500"/>
 </center>
 
-5. [JAVA Spring](https://github.com/IvesShe/Java_Spring)
+6. [JAVA Spring](https://github.com/IvesShe/Java_Spring)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Spring/raw/main/images/20210703110803.png?raw=true" width="500"/>
 </center>
 
-6. [JAVA SpringMVC](https://github.com/IvesShe/Java_SpringMVC)
+7. [JAVA SpringMVC](https://github.com/IvesShe/Java_SpringMVC)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_SpringMVC/raw/main/images/20210704120340.png?raw=true" width="500"/>
 </center>
 
-7. [JAVA SpringBoot](https://github.com/IvesShe/Java_SpringBoot)
+8. [JAVA SpringBoot](https://github.com/IvesShe/Java_SpringBoot)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_SpringBoot/raw/main/images/20210704212828.png?raw=true" width="500"/>
 </center>
 
-8. [JAVA SpringCloud](https://github.com/IvesShe/Java_SpringCloud)
+9. [JAVA SpringCloud](https://github.com/IvesShe/Java_SpringCloud)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_SpringCloud/raw/main/images/20210705195443.png?raw=true" width="500"/>
 </center>
 
-9. [JAVA ZooKeeper](https://github.com/IvesShe/Java_ZooKeeper)
+10. [JAVA ZooKeeper](https://github.com/IvesShe/Java_ZooKeeper)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_ZooKeeper/raw/main/images/20210707211625.png?raw=true" width="500"/>
 </center>
 
-10. [JAVA Dubbo](https://github.com/IvesShe/Java_Dubbo)
+11. [JAVA Dubbo](https://github.com/IvesShe/Java_Dubbo)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Dubbo/raw/main/images/20210708095903.png?raw=true" width="500"/>
 </center>
 
-11. [Kafka](https://github.com/IvesShe/Java_Kafka)
+12. [Kafka](https://github.com/IvesShe/Java_Kafka)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Kafka/raw/main/images/20210709115241.png?raw=true" width="500"/>
 </center>
 
-12. [RabbitMQ](https://github.com/IvesShe/Java_RabbitMQ)
+13. [RabbitMQ](https://github.com/IvesShe/Java_RabbitMQ)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_RabbitMQ/raw/main/images/20210711160221.png?raw=true" width="500"/>
 </center>
 
-13. [ElasticSearch](https://github.com/IvesShe/Java_ElasticSearch)
+14. [ElasticSearch](https://github.com/IvesShe/Java_ElasticSearch)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_ElasticSearch/raw/main/images/20210714205920.png?raw=true" width="500"/>
 </center>
 
-14. [Jenkins]()
+15. [Jenkins]()
 構建中
 
-15. [CI/CD]()
+16. [CI/CD]()
 構建中
 
 ------
