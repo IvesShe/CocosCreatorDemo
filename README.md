@@ -276,7 +276,7 @@ ivesshe@gmail.com
 
 # **(五) JAVA**
 
-1. [Java Swing jdbc搭配MySQL 建立簡易商城系統(4張表)，使用Maven作依賴管理](https://github.com/IvesShe/JavaMavenSwingMySQLShoppingMallEmployee)
+1. [Java Maven Swing jdbc搭配MySQL 建立簡易商城系統(4張表)](https://github.com/IvesShe/JavaMavenSwingMySQLShoppingMallEmployee)
 <center class="half">
     <img src="https://github.com/IvesShe/JavaMavenSwingMySQLShoppingMallEmployee/raw/main/images/20250224100256.jpg?raw=true" width="500"/>
 </center>
