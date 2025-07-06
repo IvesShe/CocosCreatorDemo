@@ -7,18 +7,19 @@
 (二) 全端(棧)項目
 (三) Vue.js
 (四) React.js
-(五) Java
-(六) HTML、CSS
-(七) 棋牌遊戲規則筆記
-(八) Golang
-(九) Node.js
-(十) PHP
-(十一) Android
-(十二) IOS
-(十三) React Native
-(十四) Angular.js
-(十五) Database 數據庫
-(十六) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
+(五) PIXI.js
+(六) Java
+(七) HTML、CSS
+(八) 棋牌遊戲規則筆記
+(九) Golang
+(十) Node.js
+(十一) PHP
+(十二) Android
+(十三) IOS
+(十四) React Native
+(十五) Angular.js
+(十六) Database 數據庫
+(十七) 自主學習區(Linux、Docker、Nginx、Selenium、Docker&GitLab、Docker&Jenkins、Shell、Git)
 
 ```
 **(僅以完成核心模塊或自己想練習的技術為主，持續更新中)**
