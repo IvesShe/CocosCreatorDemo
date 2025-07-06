@@ -278,7 +278,7 @@ ivesshe@gmail.com
 
 # **(五) PIXI.js**
 
-1. [Vue3搭配Pixi.js製作Filter水波紋](hhttps://github.com/IvesShe/Vue3_Pixi_Filter_Web)
+1. [Vue3搭配Pixi.js製作Filter水波紋](https://github.com/IvesShe/Vue3_Pixi_Filter_Web)
 <center class="half"></center>
     <img src="https://github.com/IvesShe/Vue3_Pixi_Filter_Web/blob/main/images/20250706164343.jpg?raw=true" width="500"/>
 </center>
