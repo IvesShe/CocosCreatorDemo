@@ -183,6 +183,7 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Vue_VantUI_Shop/raw/main/images/20211220103731.png?raw=true" width="500"/>
 </center>
 
+
 5. [Vue 電商數據可視化網站(ECharts)](https://github.com/IvesShe/Vue_ECharts)
 <center class="half">
     <img src="https://github.com/IvesShe/Vue_ECharts/raw/main/images/Xnip2022-07-12_19-55-18.jpg?raw=true" width="500"/>
@@ -274,7 +275,19 @@ ivesshe@gmail.com
 
 ------
 
-# **(五) JAVA**
+# **(五) PIXI.js**
+
+1. [React 電商後台 搭配AntDesgin](https://vue3-pixi-filter-web.vercel.app/)
+<center class="half"></center>
+    <img src="https://github.com/IvesShe/React_Admin/raw/main/images/20250706164343.jpg?raw=true" width="500"/>
+</center>
+
+2. [React 電商前台 搭配Next.js](https://github.com/IvesShe/React_Next_Shop)
+構建中
+
+------
+
+# **(六) JAVA**
 
 1. [Java Maven Swing jdbc搭配MySQL 建立簡易商城系統(4張表)](https://github.com/IvesShe/JavaMavenSwingMySQLShoppingMallEmployee)
 <center class="half">
@@ -354,7 +367,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(六) HTML、CSS**
+# **(七) HTML、CSS**
 
 1. [金魚網頁筆記](https://github.com/IvesShe/WebStart_GoldFish)
 <center class="half">
@@ -407,7 +420,7 @@ ivesshe@gmail.com
 </center>
 
 ------
-# **(七) 棋牌遊戲規則筆記**
+# **(八) 棋牌遊戲規則筆記**
 
 棋牌遊戲種類很多，規則很難記詳記全，這邊的筆記內容都手打過一遍加深印象，記錄一些較常接觸的遊戲，方便之後需要時查詢及回顧
 
@@ -418,7 +431,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(八) Golang**
+# **(九) Golang**
 
 1. [Golang LeafServer Study](https://github.com/IvesShe/Golang_LeafServer_Study)
 <center class="half">
@@ -520,7 +533,7 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Golang_Stack_Calculator/raw/main/images/20210131162835.png?raw=true" width="500"/>
 </center>
 
-# **(九) Node.js**
+# **(十) Node.js**
 1. [GCP搭配Nginx、Nodejs、Docker，使用GoDaddy申請網域](https://github.com/IvesShe/GCP_Nodejs_Nginx)
 <center class="half">
     <img src="https://github.com/IvesShe/GCP_Nodejs_Nginx/raw/main/images/20210523104913.png?raw=true" width="500"/>
@@ -558,7 +571,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(十) PHP**
+# **(十一) PHP**
 
 1. [PHP Laravel Study 搭配MYSQL](https://github.com/IvesShe/PHP_Laravel_Study)
 <center class="half">
@@ -597,21 +610,21 @@ ivesshe@gmail.com
 
 
 ------
-# **(十一) Android**
+# **(十二) Android**
 1. [Android Studio Note](https://github.com/IvesShe/Java_Android)
 <center class="half">
     <img src="https://github.com/IvesShe/Java_Android/raw/main/images/20210724111312.png?raw=true" width="500"/>
 </center>
 
 ------
-# **(十二) IOS**
+# **(十三) IOS**
 1. [IOS Note](https://github.com/IvesShe/IOS_Note)
 <center class="half">
     <img src="https://github.com/IvesShe/IOS_Note/raw/main/images/Xnip2022-04-03_14-45-30.jpg?raw=true" width="500"/>
 </center>
 
 ------
-# **(十三) React Native**
+# **(十四) React Native**
 
 1. [React Native Note](https://github.com/IvesShe/ReactNative_Note)
 <center class="half">
@@ -644,7 +657,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(十四) Angular.js**
+# **(十五) Angular.js**
 
 1. [Angular Note](https://github.com/IvesShe/Angular_Note.git)
 <center class="half">
@@ -656,7 +669,7 @@ ivesshe@gmail.com
 
 -----
 
-# **(十五) Database 數據庫**
+# **(十六) Database 數據庫**
 
 1. [MongoDB Study](https://github.com/IvesShe/MongoDB_Study)
 <center class="half">
@@ -692,7 +705,7 @@ ivesshe@gmail.com
 
 ------
 
-# **(十六) 自主學習區**
+# **(十七) 自主學習區**
 - 學習之後，製作成筆記，方便日後使用時復習
 - 練習及筆記的內容及深度會視時間安排，陸續進行更新
 - 基本上都是完整學習過一遍，第二遍學習時才會開始練習及制作筆記
