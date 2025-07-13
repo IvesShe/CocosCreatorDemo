@@ -7,7 +7,7 @@
 (二) 全端(棧)項目
 (三) Vue.js
 (四) React.js
-(五) PIXI.js
+(五) Pixi.js
 (六) Java
 (七) HTML、CSS
 (八) 棋牌遊戲規則筆記
