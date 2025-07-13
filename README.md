@@ -283,7 +283,7 @@ ivesshe@gmail.com
     <img src="https://github.com/IvesShe/Vue3_Pixi_Filter_Web/blob/main/images/20250706164343.jpg?raw=true" width="500"/>
 </center>
 
-2. [Vue3搭配pixijs製作的簡易Chrome小恐龍遊戲](https://github.com/IvesShe/Vue3_Pixi_Filter_Web)
+2. [Vue3搭配pixijs製作的簡易Chrome小恐龍遊戲](https://github.com/IvesShe/Vue3_Pixi_DragonGame_Web)
 <center class="half"></center>
     <img src="https://github.com/IvesShe/Vue3_Pixi_DragonGame_Web/blob/main/images/20250713153645.jpg?raw=true" width="500"/>
 </center>
