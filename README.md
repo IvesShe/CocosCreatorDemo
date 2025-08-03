@@ -33,7 +33,7 @@ ivesshe@gmail.com
 
 1. [Flappy Bird(Cocos Creator 3.8.6)](https://cocos-flappy-bird-web.vercel.app/)
 <center class="half">
-    <a href="https://cocos-poker-turn-web-mffx.vercel.app/">
+    <a href="https://cocos-flappy-bird-web.vercel.app/">
         <img src="https://github.com/IvesShe/cocos-flappy-bird-web/blob/main/S__81190916.jpg?raw=true" width="600"/>
     </a>
 </center>
