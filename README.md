@@ -1,4 +1,4 @@
-# **ives CocosCreatorDemo點擊藍字標題就可以進入該項目 連結或展示**
+# **ivesshe CocosCreatorDemo點擊藍字標題就可以進入該項目 連結或展示**
 前端、後端作品DEMO
 
 **項目大綱**
